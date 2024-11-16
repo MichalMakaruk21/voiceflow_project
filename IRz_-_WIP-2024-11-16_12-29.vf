@@ -1,0 +1,5029 @@
+{
+  "version": {
+    "_version": 12,
+    "autoSaveFromRestore": false,
+    "components": [],
+    "creatorID": 1067617,
+    "folders": {},
+    "manualSave": false,
+    "name": "Initial Version",
+    "platformData": {
+      "slots": [],
+      "intents": [
+        {
+          "key": "None",
+          "name": "None",
+          "slots": [],
+          "inputs": [],
+          "noteID": null
+        },
+        {
+          "key": "670a8a2eb0df138f01cb4f5a",
+          "name": "konsultacje",
+          "slots": [],
+          "inputs": [
+            {
+              "text": "Chciałbym umówić się na konsultację",
+              "slots": []
+            },
+            {
+              "text": "Jak mogę się spotkać się z prawnikiem",
+              "slots": []
+            },
+            {
+              "text": "Jak mógłbym umówić się na konsultację z Panią Mecenas?",
+              "slots": []
+            },
+            {
+              "text": "Chciałbym umówić spotkanie",
+              "slots": []
+            },
+            {
+              "text": "Czy mogę porozmawiać z reprezentantem?",
+              "slots": []
+            },
+            {
+              "text": "Chcę rozmawiać z człowiekiem",
+              "slots": []
+            },
+            {
+              "text": "Chciałbym umówić spotkanie w najbliższym możliwym terminie",
+              "slots": []
+            },
+            {
+              "text": "Czy dostanę informacje na konsultacji?",
+              "slots": []
+            },
+            {
+              "text": "Chcę skonsultować pewną sprawę",
+              "slots": []
+            },
+            {
+              "text": "Czy jest możliwość umówienia konsultacji przez telefon?",
+              "slots": []
+            },
+            {
+              "text": "Potrzebuję porady prawnej ",
+              "slots": []
+            }
+          ],
+          "noteID": null
+        },
+        {
+          "key": "671bfea3910b1930378f5e4c",
+          "name": "lokalizacja_kancelarii",
+          "slots": [],
+          "inputs": [
+            {
+              "text": "Gdzie jest siedziba kancelarii?",
+              "slots": []
+            },
+            {
+              "text": "Gdzie znajduję się biuro kancelarii?",
+              "slots": []
+            },
+            {
+              "text": "Czy mogę umówić się na konsultacje stacjonarne?",
+              "slots": []
+            },
+            {
+              "text": "Gdzie znajduje się fizycznie biuro prawnicze?",
+              "slots": []
+            },
+            {
+              "text": "Czy można spotkać się twarzą w twarz w siedzibie firmy?",
+              "slots": []
+            },
+            {
+              "text": "Proszę o podanie adresu kancelarii.",
+              "slots": []
+            },
+            {
+              "text": "Gdzie dokładnie jest zlokalizowane biuro kancelarii?",
+              "slots": []
+            },
+            {
+              "text": "Czy mogę umówić się na spotkanie osobiste w biurze?",
+              "slots": []
+            },
+            {
+              "text": "Proszę o udzielenie informacji na temat umiejscowienia kancelarii.",
+              "slots": []
+            },
+            {
+              "text": "Czy istnieje możliwość odwiedzenia biura kancelarii osobiście?",
+              "slots": []
+            },
+            {
+              "text": "Gdzie mogę znaleźć dokładną lokalizację biura kancelarii?",
+              "slots": []
+            },
+            {
+              "text": "Czy spotkania osobiste są możliwe w lokalizacji biura?",
+              "slots": []
+            },
+            {
+              "text": "Czy kancelaria ma biuro w określonym miejscu?",
+              "slots": []
+            }
+          ],
+          "noteID": null
+        }
+      ],
+      "settings": {
+        "restart": true,
+        "repeat": 100,
+        "locales": [
+          "pl-PL"
+        ],
+        "defaultVoice": "pl-PL-standard-A"
+      },
+      "publishing": {},
+      "platform": "webchat"
+    },
+    "programResources": {
+      "messages": {
+        "671e080a1a303b9ba8509ce2": {
+          "variants": {
+            "default:en-us": [
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Wybierz temat rozmowy"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              }
+            ]
+          }
+        },
+        "671e08471a303b9ba8509ced": {
+          "variants": {
+            "default:en-us": [
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Wybierz najpierw temat rozmowy"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              }
+            ]
+          }
+        },
+        "670045fc56a48f0008251986": {
+          "variants": {
+            "default:en-us": [
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Witaj na stronie kancelarii Iwony Rzucidło"
+                        }
+                      ]
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "text": ""
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Jestem asystentem który z chęcią odpowie na twoje pytania."
+                        }
+                      ]
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "text": ""
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "W czym mogę ci pomóc? "
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              }
+            ]
+          }
+        },
+        "670a49433b9e9c04e0879f09": {
+          "variants": {
+            "default:en-us": [
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Oczywiście, proszę zadaj mi pytanie"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              },
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "oczywiście, chętnie odpowiem na twoje pytanie"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              },
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "oczywiście, czekam na twoje pytanie"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              }
+            ]
+          }
+        },
+        "670591f03dff1971c5d6573f": {
+          "variants": {
+            "default:en-us": [
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Oczywiście, proszę zadaj mi pytanie"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              },
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "oczywiście, chętnie odpowiem na twoje pytanie"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              },
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "oczywiście, czekam na twoje pytanie"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              }
+            ]
+          }
+        },
+        "670595d83dff1971c5d659ca": {
+          "variants": {
+            "default:en-us": [
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Najmocniej przepraszam aie udało mi się znaleść odpowiedzi na twoje pytanie. Aby jak najlepiej ci pomóc, zachęcam do wysłania twojego pytania na mail: "
+                        },
+                        {
+                          "text": "{contact_info_mail}"
+                        },
+                        {
+                          "text": " , albo kontkatu telefoniczego na numer "
+                        },
+                        {
+                          "text": "{contact_info_phone_number}"
+                        },
+                        {
+                          "text": "."
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              }
+            ]
+          }
+        },
+        "670596a13dff1971c5d65a55": {
+          "variants": {
+            "default:en-us": [
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Czy mogę ci jeszcze jakoś pomóc?"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              },
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Czy mogę ci w czymś jeszcze pomóc?"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              }
+            ]
+          }
+        },
+        "670598883dff1971c5d65c12": {
+          "variants": {
+            "default:en-us": [
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Wspaniale, proszę zadaj mi kolejne pytanie"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              },
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Fantastycznie, zadaj mi kolejne pytanie"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              },
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Rewelacyjnie, proszę zadaj mi kolejne pytanie"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              },
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Świetnie, zadaj mi kolejne pytanie"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              },
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Super, proszę kolejne pytanie"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              },
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Doskonale, proszę zadaj mi kolejne pytanie"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              }
+            ]
+          }
+        },
+        "670a7e706a55eadd919964db": {
+          "variants": {
+            "default:en-us": [
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Z jakiego zakresu tematu mogę ci pomóc?"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              }
+            ]
+          }
+        },
+        "670a80406a55eadd919964f4": {
+          "variants": {
+            "default:en-us": [
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Najmocniej przepraszam aie udało mi się znaleść odpowiedzi na twoje pytanie."
+                        }
+                      ]
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "text": ""
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Aby jak najlepiej ci pomóc, zachęcam do wysłania twojego pytania na mail: "
+                        },
+                        {
+                          "text": "{contact_info_mail}"
+                        },
+                        {
+                          "text": " , albo kontkatu telefoniczego na numer "
+                        },
+                        {
+                          "text": "{contact_info_phone_number}"
+                        },
+                        {
+                          "text": "."
+                        }
+                      ]
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "text": ""
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Jeśli chciałbyś zadać pytanie bezpośrenio, zachęcam do wypełnienia formularzu kontaktowego :"
+                        }
+                      ]
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        },
+                        {
+                          "text": "{contact_form_link}"
+                        },
+                        {
+                          "text": " "
+                        }
+                      ]
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "text": ""
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "FAILED CHUNKS: "
+                        },
+                        {
+                          "text": "{get_kb_response}"
+                        },
+                        {
+                          "text": " "
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              }
+            ]
+          }
+        },
+        "670a81ac6a55eadd91996501": {
+          "variants": {
+            "default:en-us": [
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Wspaniale, proszę zadaj mi kolejne pytanie"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              },
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Fantastycznie, zadaj mi kolejne pytanie"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              },
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Rewelacyjnie, proszę zadaj mi kolejne pytanie"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              },
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Świetnie, zadaj mi kolejne pytanie"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              },
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Super, proszę kolejne pytanie"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              },
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Doskonale, proszę zadaj mi kolejne pytanie"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              }
+            ]
+          }
+        },
+        "670a81a46a55eadd919964fd": {
+          "variants": {
+            "default:en-us": [
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Czy mogę ci jeszcze jakoś pomóc?"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              },
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Czy mogę ci w czymś jeszcze pomóc?"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              }
+            ]
+          }
+        },
+        "670a8a7ab0df138f01cb4fac": {
+          "variants": {
+            "default:en-us": [
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "W celu jak naszybszego kontaktu zadzwoń na numer: "
+                        },
+                        {
+                          "text": "{contact_info_phone_number}"
+                        },
+                        {
+                          "text": " ."
+                        }
+                      ]
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "text": ""
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Jeśli konsultant nie jest aktualnie dostępny, zachęcam do wypełnienia formularza kontaktowego :"
+                        }
+                      ]
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        },
+                        {
+                          "text": "{contact_form_link}"
+                        },
+                        {
+                          "text": " "
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              }
+            ]
+          }
+        },
+        "670a8b3b6a55eadd9199658f": {
+          "variants": {
+            "default:en-us": [
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Czy mogę ci jeszcze jakoś pomóc?"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              },
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Czy mogę ci w czymś jeszcze pomóc?"
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              }
+            ]
+          }
+        },
+        "671c002ba03d5afdd8c11640": {
+          "variants": {
+            "default:en-us": [
+              {
+                "data": {
+                  "text": [
+                    {
+                      "children": [
+                        {
+                          "text": "Siedziba Kancelarii znajduje się na: "
+                        },
+                        {
+                          "text": "{office_address}"
+                        },
+                        {
+                          "text": " . Zaś adres korespondencyjny to: "
+                        },
+                        {
+                          "text": "{mailing_address}"
+                        },
+                        {
+                          "text": " ."
+                        }
+                      ]
+                    }
+                  ],
+                  "delay": null
+                },
+                "condition": null
+              }
+            ]
+          }
+        }
+      },
+      "prompts": {}
+    },
+    "prototype": {
+      "data": {
+        "name": "IRz - WIP",
+        "locales": [
+          "pl-PL"
+        ]
+      },
+      "model": {
+        "intents": [],
+        "slots": []
+      },
+      "context": {
+        "stack": [
+          {
+            "programID": "63067e968cbdb692c97b063a",
+            "storage": {},
+            "variables": {},
+            "diagramID": "63067e968cbdb692c97b063a"
+          }
+        ],
+        "variables": {}
+      },
+      "surveyorContext": {
+        "nonDraftResponsesMap": {},
+        "responseMessagesByDiscriminatorIDMap": {},
+        "responseDiscriminatorsByResponseIDMap": {},
+        "functionDefinitions": {},
+        "referencedResponseIDs": [
+          "670045fc56a48f0008251986",
+          "671e080a1a303b9ba8509ce2",
+          "670591f03dff1971c5d6573f",
+          "670595d83dff1971c5d659ca",
+          "670596a13dff1971c5d65a55",
+          "670598883dff1971c5d65c12",
+          "670a49433b9e9c04e0879f09",
+          "670a7e706a55eadd919964db",
+          "671e08471a303b9ba8509ced",
+          "670a80406a55eadd919964f4",
+          "670a81a46a55eadd919964fd",
+          "670a81ac6a55eadd91996501",
+          "670a8a7ab0df138f01cb4fac",
+          "670a8b3b6a55eadd9199658f",
+          "671c002ba03d5afdd8c11640"
+        ],
+        "slotsMap": {},
+        "platform": "webchat",
+        "products": {},
+        "extraSlots": [],
+        "interfaces": [],
+        "permissions": [],
+        "projectType": "chat",
+        "extraIntents": [],
+        "usedEventsSet": [],
+        "usedIntentsSet": [],
+        "goToIntentsSet": [],
+        "cmsVariables": {
+          "mailing_address": {
+            "isSystem": false,
+            "defaultValue": "al. Rzeczypospolitej 22c/72, Warszawa ",
+            "datatype": "any",
+            "isArray": false
+          },
+          "office_address": {
+            "isSystem": false,
+            "defaultValue": "ul. Śniadeckich 10, Warszawa",
+            "datatype": "any",
+            "isArray": false
+          },
+          "sessions": {
+            "isSystem": true,
+            "defaultValue": null
+          },
+          "user_id": {
+            "isSystem": true,
+            "defaultValue": null
+          },
+          "timestamp": {
+            "isSystem": true,
+            "defaultValue": null
+          },
+          "platform": {
+            "isSystem": true,
+            "defaultValue": null
+          },
+          "locale": {
+            "isSystem": true,
+            "defaultValue": null
+          },
+          "intent_confidence": {
+            "isSystem": true,
+            "defaultValue": null
+          },
+          "last_response": {
+            "isSystem": true,
+            "defaultValue": null
+          },
+          "last_event": {
+            "isSystem": true,
+            "defaultValue": null
+          },
+          "last_utterance": {
+            "isSystem": true,
+            "defaultValue": null
+          },
+          "vf_memory": {
+            "isSystem": true,
+            "defaultValue": null
+          },
+          "agent_persona": {
+            "isSystem": false,
+            "defaultValue": null,
+            "datatype": "any",
+            "isArray": false
+          },
+          "contact_info_mail": {
+            "isSystem": false,
+            "defaultValue": "kancelaria@kancelariarzucidlo.pl",
+            "datatype": "any",
+            "isArray": false
+          },
+          "contact_info_phone_number": {
+            "isSystem": false,
+            "defaultValue": "+48 784 748 211",
+            "datatype": "any",
+            "isArray": false
+          },
+          "contact_form_link": {
+            "isSystem": false,
+            "defaultValue": "https://kancelariarzucidlo.pl/kontakt/",
+            "datatype": "any",
+            "isArray": false
+          },
+          "get_kb_response": {
+            "isSystem": false,
+            "defaultValue": null,
+            "datatype": "any",
+            "isArray": false
+          }
+        },
+        "entitiesMap": {},
+        "variableMap": {},
+        "intentsMap": {},
+        "requiredEntitiesMap": {},
+        "eventsMap": {}
+      },
+      "settings": {},
+      "platform": "webchat",
+      "type": "chat"
+    },
+    "topics": [
+      {
+        "type": "DIAGRAM",
+        "sourceID": "63067e968cbdb692c97b063a"
+      }
+    ],
+    "variables": [
+      "sessions",
+      "user_id",
+      "timestamp",
+      "platform",
+      "locale",
+      "intent_confidence",
+      "last_response",
+      "last_event",
+      "last_utterance",
+      "vf_memory",
+      "agent_persona",
+      "contact_info_mail",
+      "contact_info_phone_number",
+      "contact_form_link",
+      "mailing_address",
+      "office_address",
+      "get_kb_response"
+    ],
+    "_id": "670a78263dba66ebe23bf665",
+    "updatedAt": "2024-11-15T16:52:57.693Z",
+    "publishedAt": "2024-10-08T20:36:48.122Z",
+    "domains": [
+      {
+        "id": "cm1v4yc7x1reu08nh8mw06w3v",
+        "name": "Home",
+        "live": true,
+        "topicIDs": [
+          "63067e968cbdb692c97b063a"
+        ],
+        "rootDiagramID": "63067e968cbdb692c97b063a",
+        "updatedAt": "2024-10-12T13:22:46.507Z"
+      }
+    ],
+    "projectID": "670a78263dba66ebe23bf664",
+    "rootDiagramID": "63067e968cbdb692c97b063a"
+  },
+  "diagrams": {
+    "67116867b67f555a6958c70c": {
+      "name": "contact_encouragement",
+      "type": "COMPONENT",
+      "zoom": 100,
+      "nodes": {
+        "6711686724f050000745f770": {
+          "type": "start",
+          "data": {
+            "name": "Enter",
+            "color": "#56b365",
+            "triggers": [],
+            "portsV2": {
+              "byKey": {},
+              "builtIn": {
+                "next": {
+                  "id": "6711686724f050000745f76f",
+                  "type": "next",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          426.48,
+                          142
+                        ]
+                      },
+                      {
+                        "point": [
+                          517.75,
+                          147.75
+                        ]
+                      }
+                    ]
+                  },
+                  "target": "67116892a98c6413bc2748a1"
+                }
+              },
+              "dynamic": []
+            },
+            "steps": []
+          },
+          "coords": [
+            360,
+            120
+          ],
+          "nodeID": "6711686724f050000745f770"
+        },
+        "67116892a98c6413bc2748a1": {
+          "type": "generative",
+          "data": {
+            "name": "Response AI",
+            "mode": "prompt",
+            "prompt": "Napisz wariancje zachęcenia do niezobowiązującgo kontaktu/konsultacji z Panią Mecenas, w celu analizy sytuacji prawnej klienta/klientki.\nUżyj wiedzy z {{[last_utterance].last_utterance}} oraz {{[last_response].last_response}}żeby nadać delikatny kontekst całej wypowiedzi.\n\nOgranicz się do jednego zwięzłego zdania",
+            "system": "{{[unknown].6701644e258e07e042bd8b3b}} ",
+            "maxTokens": 128,
+            "model": "gpt-3.5-turbo",
+            "temperature": 0.3,
+            "notFoundPath": true,
+            "overrideParams": false,
+            "portsV2": {
+              "byKey": {},
+              "builtIn": {
+                "next": {
+                  "type": "next",
+                  "target": null,
+                  "id": "67116892a98c6413bc2748a2"
+                },
+                "else": {
+                  "type": "else",
+                  "target": null,
+                  "id": "67116892a98c6413bc2748a3"
+                }
+              },
+              "dynamic": []
+            },
+            "source": "default"
+          },
+          "nodeID": "67116892a98c6413bc2748a1",
+          "coords": [
+            0,
+            0
+          ]
+        },
+        "67116892a98c6413bc2748a4": {
+          "type": "block",
+          "data": {
+            "name": "gen_encouragment",
+            "steps": [
+              "67116892a98c6413bc2748a1"
+            ],
+            "color": ""
+          },
+          "nodeID": "67116892a98c6413bc2748a4",
+          "coords": [
+            683.75,
+            68.75
+          ]
+        }
+      },
+      "offsetX": 272,
+      "offsetY": 204,
+      "modified": 1729194087,
+      "variables": [],
+      "creatorID": 1067617,
+      "_id": "67116867b67f555a6958c70c",
+      "diagramID": "67116867b67f555a6958c70c",
+      "versionID": "670a78263dba66ebe23bf665"
+    },
+    "63067e968cbdb692c97b063a": {
+      "name": "ROOT",
+      "type": "TOPIC",
+      "zoom": 100,
+      "nodes": {
+        "start00000000000000000000": {
+          "type": "start",
+          "data": {
+            "name": "Start",
+            "color": "#56b365",
+            "steps": [],
+            "portsV2": {
+              "byKey": {},
+              "builtIn": {
+                "next": {
+                  "type": "next",
+                  "target": "63068ee2b9d93f34f5d1f11c",
+                  "id": "6032afcf359e8c14c06c0319",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          385.91,
+                          100.19
+                        ]
+                      },
+                      {
+                        "point": [
+                          453.61,
+                          100.19
+                        ]
+                      },
+                      {
+                        "point": [
+                          453.61,
+                          24.73
+                        ]
+                      },
+                      {
+                        "point": [
+                          521.32,
+                          24.73
+                        ],
+                        "allowedToTop": true
+                      }
+                    ]
+                  }
+                }
+              },
+              "dynamic": []
+            },
+            "label": "Start"
+          },
+          "nodeID": "start00000000000000000000",
+          "coords": [
+            321.26138293106055,
+            78.19392824442801
+          ]
+        },
+        "63068ee2b9d93f34f5d1f11a": {
+          "type": "message",
+          "data": {
+            "messageID": "670045fc56a48f0008251986",
+            "portsV2": {
+              "byKey": {
+                "next": {
+                  "type": "next",
+                  "target": null,
+                  "id": "63068ee2b9d93f34f5d1f11b"
+                }
+              },
+              "builtIn": {},
+              "dynamic": []
+            },
+            "name": "Text"
+          },
+          "nodeID": "63068ee2b9d93f34f5d1f11a"
+        },
+        "63068ee2b9d93f34f5d1f11c": {
+          "type": "block",
+          "data": {
+            "name": "Welcome",
+            "steps": [
+              "67016403b77de20a8c70054c",
+              "63068ee2b9d93f34f5d1f11a",
+              "670163d9b77de20a8c700549"
+            ],
+            "color": ""
+          },
+          "nodeID": "63068ee2b9d93f34f5d1f11c",
+          "coords": [
+            686.3172006359875,
+            -2.273852657741301
+          ]
+        },
+        "670163d9b77de20a8c700549": {
+          "type": "buttons-v2",
+          "data": {
+            "name": "Buttons",
+            "items": [
+              {
+                "id": "cm1wcnxai00cy357g73j8b7jb",
+                "label": [
+                  {
+                    "text": [
+                      "Chciałbym umówić się na kosultację."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "cm1wcp35w00e1357gc1s5odwl",
+                "label": [
+                  {
+                    "text": [
+                      "Potrzebuję zadać pytanie związane z prawem"
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "cm20vlab001d7357gobo9f8v7",
+                "label": [
+                  {
+                    "text": [
+                      "Chciałbym zadać pytanie związane z kancelarią"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "listenForOtherTriggers": true,
+            "portsV2": {
+              "byKey": {
+                "cm1wcnxai00cy357g73j8b7jb": {
+                  "id": "670164c5b77de20a8c700550",
+                  "target": "670a8a43253b7e41b8b72f3a",
+                  "type": "",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          520.32,
+                          371.73
+                        ],
+                        "reversed": true
+                      },
+                      {
+                        "point": [
+                          346.55,
+                          371.73
+                        ]
+                      },
+                      {
+                        "point": [
+                          346.55,
+                          274.11
+                        ]
+                      },
+                      {
+                        "point": [
+                          172.77,
+                          274.11
+                        ],
+                        "reversed": true,
+                        "allowedToTop": false
+                      }
+                    ]
+                  }
+                },
+                "cm1wcp35w00e1357gc1s5odwl": {
+                  "id": "670164fbb77de20a8c700552",
+                  "target": "670a4943403a937b99fd34e1",
+                  "type": "",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          852.32,
+                          443.73
+                        ]
+                      },
+                      {
+                        "point": [
+                          909.41,
+                          443.73
+                        ]
+                      },
+                      {
+                        "point": [
+                          909.41,
+                          511.44
+                        ]
+                      },
+                      {
+                        "point": [
+                          966.51,
+                          511.44
+                        ],
+                        "allowedToTop": false
+                      }
+                    ]
+                  }
+                },
+                "cm20vlab001d7357gobo9f8v7": {
+                  "id": "670591bcb77de20a8c700554",
+                  "target": "670591dab77de20a8c700558",
+                  "type": "",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          520.32,
+                          515.73
+                        ],
+                        "reversed": true
+                      },
+                      {
+                        "point": [
+                          449.32,
+                          515.73
+                        ]
+                      },
+                      {
+                        "point": [
+                          449.32,
+                          887.19
+                        ]
+                      },
+                      {
+                        "point": [
+                          378.32,
+                          887.19
+                        ],
+                        "reversed": true,
+                        "allowedToTop": true
+                      }
+                    ]
+                  }
+                }
+              },
+              "builtIn": {},
+              "dynamic": []
+            },
+            "noMatch": {
+              "repromptID": "671e080a1a303b9ba8509ce2"
+            }
+          },
+          "nodeID": "670163d9b77de20a8c700549",
+          "coords": [
+            0,
+            0
+          ]
+        },
+        "67016403b77de20a8c70054c": {
+          "type": "set-v3",
+          "data": {
+            "name": "",
+            "items": [
+              {
+                "id": "cm1wcjwy900ax357g296s1q1n",
+                "type": "value",
+                "label": null,
+                "value": [
+                  {
+                    "text": [
+                      "Jesteś asystentem radcy prawnego Iwony Rzucidło.\n\nZawsze mów tak, jakbyś był częścią zespołu. Oznacza to, że zawsze powinieneś używać słów takich jak „my, nasz”. "
+                    ]
+                  },
+                  {
+                    "text": [
+                      "Zachowaj profesjonalny charakter rozmowy."
+                    ]
+                  },
+                  {
+                    "text": [
+                      {
+                        "text": [
+                          ""
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": [
+                      "Nie wspominaj klientowi o możliwości konsultacji, tylko staraj się sam wyjaśnić zagadnienia przestawione w pytaniu.\n\nJeśli zagadnienie jest skomplikowane i wymaga długiego wyjaśnienia, STREŚĆ I OGRANICZ ODPOWIEDŹ DO 3 ZDAŃ.\n\nNie wspominaj o tym że czerpiesz informacje z tekstu.\n\nNigdy nie wspominaj, że jesteś AI botem"
+                    ]
+                  }
+                ],
+                "variableID": "6701644e258e07e042bd8b3b"
+              }
+            ],
+            "label": "",
+            "portsV2": {
+              "byKey": {
+                "next": {
+                  "type": "next",
+                  "target": null,
+                  "id": "67016403b77de20a8c70054d"
+                }
+              },
+              "builtIn": {},
+              "dynamic": []
+            }
+          },
+          "nodeID": "67016403b77de20a8c70054c",
+          "coords": [
+            0,
+            0
+          ]
+        },
+        "670591dab77de20a8c700556": {
+          "type": "message",
+          "data": {
+            "name": "",
+            "portsV2": {
+              "byKey": {
+                "next": {
+                  "type": "next",
+                  "target": null,
+                  "id": "670591dab77de20a8c700557"
+                }
+              },
+              "builtIn": {},
+              "dynamic": []
+            },
+            "messageID": "670591f03dff1971c5d6573f"
+          },
+          "nodeID": "670591dab77de20a8c700556"
+        },
+        "670591dab77de20a8c700558": {
+          "type": "block",
+          "data": {
+            "name": "get_random_question",
+            "steps": [
+              "670591dab77de20a8c700556",
+              "6705928bb77de20a8c700565"
+            ],
+            "color": ""
+          },
+          "nodeID": "670591dab77de20a8c700558",
+          "coords": [
+            213.32071060301635,
+            860.1862205302469
+          ]
+        },
+        "6705928bb77de20a8c700565": {
+          "type": "captureV2",
+          "data": {
+            "name": "Capture",
+            "intentScope": "GLOBAL",
+            "capture": {
+              "type": "query",
+              "variable": "last_utterance"
+            },
+            "noReply": null,
+            "noMatch": null,
+            "portsV2": {
+              "byKey": {},
+              "builtIn": {
+                "next": {
+                  "type": "next",
+                  "target": "670592b5b77de20a8c70056b",
+                  "id": "6705928bb77de20a8c700566",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          47.32,
+                          1044.19
+                        ],
+                        "reversed": true
+                      },
+                      {
+                        "point": [
+                          -9.74,
+                          1043.86
+                        ],
+                        "reversed": true
+                      }
+                    ]
+                  }
+                },
+                "else": {
+                  "type": "else",
+                  "target": null,
+                  "id": "6705928bb77de20a8c700567"
+                }
+              },
+              "dynamic": []
+            }
+          },
+          "nodeID": "6705928bb77de20a8c700565"
+        },
+        "670592b5b77de20a8c70056b": {
+          "type": "generative",
+          "data": {
+            "name": "Response AI",
+            "mode": "prompt",
+            "prompt": "{{[last_utterance].last_utterance}} ",
+            "system": "",
+            "maxTokens": 128,
+            "model": "claude-3-haiku",
+            "temperature": 0.7,
+            "notFoundPath": true,
+            "overrideParams": false,
+            "portsV2": {
+              "byKey": {},
+              "builtIn": {
+                "next": {
+                  "type": "next",
+                  "target": "670596a1b77de20a8c7005e2",
+                  "id": "670592b5b77de20a8c70056c",
+                  "data": {}
+                },
+                "else": {
+                  "type": "else",
+                  "target": "670595beb77de20a8c7005d4",
+                  "id": "670592b5b77de20a8c70056d",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          -9.34,
+                          1097.96
+                        ]
+                      },
+                      {
+                        "point": [
+                          43.35,
+                          1097.96
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          43.35,
+                          1321.3393690470866
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          0.02416106551410757,
+                          1321.3393690470866
+                        ],
+                        "reversed": true
+                      }
+                    ],
+                    "color": "#d58493"
+                  }
+                }
+              },
+              "dynamic": []
+            },
+            "source": "knowledge_base",
+            "instruction": "Jesteś konsultantem zatrudnionym w kancelarii Iwony Rzucidło, przyjmij personę {{[unknown].6701644e258e07e042bd8b3b}} ,\n\nOdpowiedz na pytanie {{[last_utterance].last_utterance}} używając wiedzy zawartej w bazie.\n\nZachowaj profesjonalny styl wypowiedzi.\nSTREŚĆ I OGRANICZ ODPOWIEDŹ DO 3 ZDAŃ."
+          },
+          "nodeID": "670592b5b77de20a8c70056b"
+        },
+        "670592b5b77de20a8c70056e": {
+          "type": "block",
+          "data": {
+            "name": "kb_response_unrelated_1",
+            "steps": [
+              "670592b5b77de20a8c70056b"
+            ],
+            "color": ""
+          },
+          "nodeID": "670592b5b77de20a8c70056e",
+          "coords": [
+            -175.7363919806559,
+            964.8570200371887
+          ]
+        },
+        "670595beb77de20a8c7005d4": {
+          "type": "message",
+          "data": {
+            "name": "",
+            "portsV2": {
+              "byKey": {
+                "next": {
+                  "type": "next",
+                  "target": "670596a1b77de20a8c7005e2",
+                  "id": "670595beb77de20a8c7005d5",
+                  "data": {}
+                }
+              },
+              "builtIn": {},
+              "dynamic": []
+            },
+            "messageID": "670595d83dff1971c5d659ca"
+          },
+          "nodeID": "670595beb77de20a8c7005d4"
+        },
+        "670595beb77de20a8c7005d6": {
+          "type": "block",
+          "data": {
+            "name": "not_find_response",
+            "steps": [
+              "670595beb77de20a8c7005d4"
+            ],
+            "color": ""
+          },
+          "nodeID": "670595beb77de20a8c7005d6",
+          "coords": [
+            -166.37824646477685,
+            1242.7422050370367
+          ]
+        },
+        "670596a1b77de20a8c7005e2": {
+          "type": "message",
+          "data": {
+            "name": "",
+            "messageID": "670596a13dff1971c5d65a55",
+            "portsV2": {
+              "byKey": {
+                "next": {
+                  "type": "next",
+                  "target": null,
+                  "id": "670596a1b77de20a8c7005e3"
+                }
+              },
+              "builtIn": {},
+              "dynamic": []
+            }
+          },
+          "nodeID": "670596a1b77de20a8c7005e2"
+        },
+        "670596a1b77de20a8c7005e4": {
+          "type": "block",
+          "data": {
+            "name": "New Block 6",
+            "steps": [
+              "670596a1b77de20a8c7005e2",
+              "670596b3b77de20a8c7005ea"
+            ]
+          },
+          "nodeID": "670596a1b77de20a8c7005e4",
+          "coords": [
+            -620.7916457821785,
+            1046.32908738336
+          ]
+        },
+        "670596b3b77de20a8c7005ea": {
+          "type": "buttons",
+          "data": {
+            "name": "Buttons",
+            "buttons": [
+              {
+                "id": "pc23s3gnl",
+                "name": "Tak",
+                "actions": []
+              },
+              {
+                "id": "a22483gkk",
+                "name": "Nie",
+                "actions": []
+              }
+            ],
+            "intentScope": "GLOBAL",
+            "noMatch": {
+              "types": [],
+              "pathName": "No match",
+              "randomize": false,
+              "reprompts": []
+            },
+            "portsV2": {
+              "byKey": {},
+              "builtIn": {
+                "else": {
+                  "type": "else",
+                  "target": null,
+                  "id": "670596b3b77de20a8c7005ec"
+                }
+              },
+              "dynamic": [
+                {
+                  "type": "",
+                  "target": "67059886b77de20a8c700606",
+                  "id": "670596b3b77de20a8c7005eb",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          -786.7902129612359,
+                          1221.5800101549482
+                        ],
+                        "reversed": true
+                      },
+                      {
+                        "point": [
+                          -810.7902129612359,
+                          1221.5800101549482
+                        ]
+                      },
+                      {
+                        "point": [
+                          -810.7902129612359,
+                          1045.4900101549483
+                        ]
+                      },
+                      {
+                        "point": [
+                          -1104.39,
+                          1045.4900101549483
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          -1104.39,
+                          868.9934906335211
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          -1075.2440201847612,
+                          868.9934906335211
+                        ],
+                        "allowedToTop": true
+                      }
+                    ]
+                  }
+                },
+                {
+                  "id": "670596b8b77de20a8c7005ef",
+                  "type": "",
+                  "target": "670a7e70253b7e41b8b72e65",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          -454.7902129612359,
+                          1275.8300101549482
+                        ]
+                      },
+                      {
+                        "point": [
+                          -346.07,
+                          1275.8300101549482
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          -346.07,
+                          805.76
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          491.11,
+                          805.76
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          491.11,
+                          681.9091400475836
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          515.1122725398479,
+                          681.9091400475836
+                        ],
+                        "allowedToTop": true
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          "nodeID": "670596b3b77de20a8c7005ea",
+          "coords": [
+            0,
+            0
+          ]
+        },
+        "670597a6b77de20a8c7005f9": {
+          "type": "captureV2",
+          "data": {
+            "name": "Capture",
+            "intentScope": "GLOBAL",
+            "capture": {
+              "type": "query",
+              "variable": "last_utterance"
+            },
+            "noReply": null,
+            "noMatch": null,
+            "portsV2": {
+              "byKey": {},
+              "builtIn": {
+                "next": {
+                  "type": "next",
+                  "target": "670592b5b77de20a8c70056e",
+                  "id": "670597a6b77de20a8c7005fa",
+                  "data": {}
+                },
+                "else": {
+                  "type": "else",
+                  "target": null,
+                  "id": "670597a6b77de20a8c7005fb"
+                }
+              },
+              "dynamic": []
+            }
+          },
+          "nodeID": "670597a6b77de20a8c7005f9"
+        },
+        "670597a6b77de20a8c7005fc": {
+          "type": "block",
+          "data": {
+            "name": "New Block 7",
+            "steps": [
+              "670597a6b77de20a8c7005f9"
+            ]
+          },
+          "nodeID": "670597a6b77de20a8c7005fc",
+          "coords": [
+            -524.2496049015583,
+            741.3061737389899
+          ]
+        },
+        "67059886b77de20a8c700604": {
+          "type": "message",
+          "data": {
+            "name": "",
+            "portsV2": {
+              "byKey": {
+                "next": {
+                  "type": "next",
+                  "target": "670597a6b77de20a8c7005fc",
+                  "id": "67059886b77de20a8c700605",
+                  "data": {}
+                }
+              },
+              "builtIn": {},
+              "dynamic": []
+            },
+            "messageID": "670598883dff1971c5d65c12"
+          },
+          "nodeID": "67059886b77de20a8c700604"
+        },
+        "67059886b77de20a8c700606": {
+          "type": "block",
+          "data": {
+            "name": "New Block 7",
+            "steps": [
+              "67059886b77de20a8c700604"
+            ]
+          },
+          "nodeID": "67059886b77de20a8c700606",
+          "coords": [
+            -910.2437988745478,
+            841.9934647143815
+          ]
+        },
+        "670a4703403a937b99fd34c5": {
+          "type": "generative",
+          "data": {
+            "name": "Response AI",
+            "mode": "prompt",
+            "prompt": "Odpowiedz na pytania {{[last_utterance].last_utterance}} \r\n\r\r\r\n twojego klienta używając wiedzy z zakresu prawa kredytowego lub administraycjnego formatując i streszczając wiadomości zawarte w \r\n{{[get_kb_response].672f95797b920f7bb7471aca}} .\r\r\r\n\r\nZachowaj profesjonalny ton rozmowy.\r\nTwoja odpowiedź powinna być ZWIĘZŁA, KRÓTKA I JEDNOZNACZNA.\r\n\r\nJeśli zagadnienie jest skomplikowane i wymaga długiego wyjaśnienia, STREŚĆ I OGRANICZ ODPOWIEDŹ DO 4 ZDAŃ.\r\n\r\nNie wspominaj o tym że czerpiesz informacje z tekstu. \r\n\r\nNIE zachęcaj klienta do konsultacji z prawnikiem ani o potrzebie weryfikacji informacji (Te informacje pojawiaja się w automatycznie w klauzuli po twojej odpowiedzi).",
+            "system": "{{[unknown].6701644e258e07e042bd8b3b}} ",
+            "maxTokens": 1005,
+            "model": "gpt-3.5-turbo",
+            "temperature": 0.2,
+            "notFoundPath": true,
+            "overrideParams": false,
+            "portsV2": {
+              "byKey": {},
+              "builtIn": {
+                "next": {
+                  "type": "next",
+                  "target": "67116a27a98c6413bc274940",
+                  "id": "670a4703403a937b99fd34c6",
+                  "data": {}
+                },
+                "else": {
+                  "type": "else",
+                  "target": null,
+                  "id": "670a4703403a937b99fd34c7",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          1479.4,
+                          823.41
+                        ],
+                        "reversed": true
+                      },
+                      {
+                        "point": [
+                          1305.28,
+                          823.41
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          1305.28,
+                          983.27
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          1307.1954213558167,
+                          983.27
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          1307.1954213558167,
+                          1008.7087148870153
+                        ],
+                        "toTop": true,
+                        "allowedToTop": true
+                      }
+                    ]
+                  }
+                },
+                "no-reply": {
+                  "target": null
+                }
+              },
+              "dynamic": []
+            },
+            "source": "default",
+            "instruction": "Jesteś wyśmienitym radcą prawnym. Twoja specjalizacja to kredyty frankowe i prawo administracyjne.\n\nOdpowiedz na pytania {{[last_utterance].last_utterance}} twojego klienta używając wiedzy z zakresu prawa kredytowego lub administraycjnego.\nNie skupiaj się na szczegółach sytuacji klienta tylko doradź mu kolejne kroki.\nZachowaj profesjonalny ton rozmowy.\n\nNie wspominaj klientowi o możliwości konsultacji, tylko staraj się sam wyjaśnić zagadnienia przestawione w pytaniu.\n\nJeśli zagadnienie jest skomplikowane i wymaga długiego wyjaśnienia, STREŚĆ I OGRANICZ ODPOWIEDŹ DO 3 ZDAŃ.\n\nNie wspominaj o tym że czerpiesz informacje z tekstu."
+          },
+          "nodeID": "670a4703403a937b99fd34c5"
+        },
+        "670a4943403a937b99fd34e1": {
+          "type": "message",
+          "data": {
+            "name": "",
+            "messageID": "670a49433b9e9c04e0879f09",
+            "portsV2": {
+              "byKey": {
+                "next": {
+                  "type": "next",
+                  "target": null,
+                  "id": "670a4943403a937b99fd34e2"
+                }
+              },
+              "builtIn": {},
+              "dynamic": []
+            }
+          },
+          "nodeID": "670a4943403a937b99fd34e1"
+        },
+        "670a4943403a937b99fd34e4": {
+          "type": "block",
+          "data": {
+            "name": "get_random_question copy",
+            "color": "",
+            "steps": [
+              "670a4943403a937b99fd34e1",
+              "670a4950403a937b99fd34ed"
+            ]
+          },
+          "nodeID": "670a4943403a937b99fd34e4",
+          "coords": [
+            1132.5113829310603,
+            432.443928244428
+          ]
+        },
+        "670a4950403a937b99fd34ed": {
+          "type": "captureV2",
+          "data": {
+            "name": "Capture",
+            "intentScope": "GLOBAL",
+            "capture": {
+              "type": "query",
+              "variable": "last_utterance"
+            },
+            "noReply": null,
+            "noMatch": null,
+            "portsV2": {
+              "byKey": {},
+              "builtIn": {
+                "next": {
+                  "type": "next",
+                  "target": "670a4703403a937b99fd34c5",
+                  "id": "670a4950403a937b99fd34ee",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          1298.51,
+                          616.44
+                        ]
+                      },
+                      {
+                        "point": [
+                          1388.95,
+                          616.44
+                        ]
+                      },
+                      {
+                        "point": [
+                          1388.95,
+                          768.91
+                        ]
+                      },
+                      {
+                        "point": [
+                          1479.4,
+                          768.91
+                        ],
+                        "allowedToTop": false
+                      }
+                    ]
+                  }
+                },
+                "else": {
+                  "type": "else",
+                  "target": null,
+                  "id": "670a4950403a937b99fd34ef"
+                }
+              },
+              "dynamic": []
+            }
+          },
+          "nodeID": "670a4950403a937b99fd34ed",
+          "coords": [
+            0,
+            0
+          ]
+        },
+        "670a7e70253b7e41b8b72e65": {
+          "type": "block",
+          "data": {
+            "name": "change_conv_topic",
+            "color": "",
+            "steps": [
+              "670a7e70253b7e41b8b72e6a",
+              "670a7e70253b7e41b8b72e6d"
+            ]
+          },
+          "nodeID": "670a7e70253b7e41b8b72e65",
+          "coords": [
+            680.1124434385117,
+            654.9092628503522
+          ]
+        },
+        "670a7e70253b7e41b8b72e6a": {
+          "type": "message",
+          "data": {
+            "name": "Text",
+            "messageID": "670a7e706a55eadd919964db",
+            "portsV2": {
+              "byKey": {
+                "next": {
+                  "type": "next",
+                  "target": null,
+                  "id": "670a7e70253b7e41b8b72e6b"
+                }
+              },
+              "builtIn": {},
+              "dynamic": []
+            }
+          },
+          "nodeID": "670a7e70253b7e41b8b72e6a",
+          "coords": [
+            0,
+            0
+          ]
+        },
+        "670a7e70253b7e41b8b72e6d": {
+          "type": "buttons-v2",
+          "data": {
+            "name": "Buttons",
+            "items": [
+              {
+                "id": "cm1wcnxai00cy357g73j8b7jb",
+                "label": [
+                  {
+                    "text": [
+                      "Chciałbym umówić się na kosultację."
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "cm1wcp35w00e1357gc1s5odwl",
+                "label": [
+                  {
+                    "text": [
+                      "Potrzebuję zadać pytanie związane z prawem"
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "cm20vlab001d7357gobo9f8v7",
+                "label": [
+                  {
+                    "text": [
+                      "Chciałbym zadać pytanie związane z kancelarią"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "listenForOtherTriggers": true,
+            "portsV2": {
+              "byKey": {
+                "cm1wcnxai00cy357g73j8b7jb": {
+                  "type": "",
+                  "target": "670a8a43253b7e41b8b72f3c",
+                  "id": "670a7e70253b7e41b8b72e6e",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          514.11,
+                          858.91
+                        ],
+                        "reversed": true
+                      },
+                      {
+                        "point": [
+                          474.46,
+                          858.91
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          474.46,
+                          222.11
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          171.77,
+                          222.11
+                        ],
+                        "reversed": true,
+                        "allowedToTop": true
+                      }
+                    ]
+                  }
+                },
+                "cm1wcp35w00e1357gc1s5odwl": {
+                  "type": "",
+                  "target": "670a4943403a937b99fd34e4",
+                  "id": "670a7e70253b7e41b8b72e6f",
+                  "data": {}
+                },
+                "cm20vlab001d7357gobo9f8v7": {
+                  "type": "",
+                  "target": "670591dab77de20a8c700558",
+                  "id": "670a7e70253b7e41b8b72e70",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          514.11,
+                          1002.91
+                        ],
+                        "reversed": true
+                      },
+                      {
+                        "point": [
+                          446.22,
+                          1002.91
+                        ]
+                      },
+                      {
+                        "point": [
+                          446.22,
+                          887.19
+                        ]
+                      },
+                      {
+                        "point": [
+                          378.32,
+                          887.19
+                        ],
+                        "reversed": true,
+                        "allowedToTop": true
+                      }
+                    ]
+                  }
+                }
+              },
+              "builtIn": {},
+              "dynamic": []
+            },
+            "noMatch": {
+              "repromptID": "671e08471a303b9ba8509ced"
+            }
+          },
+          "nodeID": "670a7e70253b7e41b8b72e6d"
+        },
+        "670a8041253b7e41b8b72e80": {
+          "type": "block",
+          "data": {
+            "name": "not_find_response_2",
+            "color": "",
+            "steps": [
+              "670a8041253b7e41b8b72e82"
+            ]
+          },
+          "nodeID": "670a8041253b7e41b8b72e80",
+          "coords": [
+            1300.1865565502583,
+            1362.7791949266116
+          ]
+        },
+        "670a8041253b7e41b8b72e82": {
+          "type": "message",
+          "data": {
+            "name": "",
+            "messageID": "670a80406a55eadd919964f4",
+            "portsV2": {
+              "byKey": {
+                "next": {
+                  "type": "next",
+                  "target": "670a81a5253b7e41b8b72e8d",
+                  "id": "670a8041253b7e41b8b72e83",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          1466.1898937976675,
+                          1585.775563564384
+                        ]
+                      },
+                      {
+                        "point": [
+                          2270.51,
+                          1585.775563564384
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          2270.51,
+                          603.18
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          2345.35,
+                          603.18
+                        ],
+                        "allowedToTop": true
+                      }
+                    ],
+                    "color": "#56b365"
+                  }
+                }
+              },
+              "builtIn": {},
+              "dynamic": []
+            }
+          },
+          "nodeID": "670a8041253b7e41b8b72e82"
+        },
+        "670a81a5253b7e41b8b72e8d": {
+          "type": "block",
+          "data": {
+            "name": "New Block 6",
+            "color": "",
+            "steps": [
+              "670a81a5253b7e41b8b72e8f",
+              "670a81a5253b7e41b8b72e92"
+            ]
+          },
+          "nodeID": "670a81a5253b7e41b8b72e8d",
+          "coords": [
+            2510.3492050075874,
+            576.1818953012415
+          ]
+        },
+        "670a81a5253b7e41b8b72e8f": {
+          "type": "message",
+          "data": {
+            "name": "",
+            "messageID": "670a81a46a55eadd919964fd",
+            "portsV2": {
+              "byKey": {
+                "next": {
+                  "type": "next",
+                  "target": null,
+                  "id": "670a81a5253b7e41b8b72e90"
+                }
+              },
+              "builtIn": {},
+              "dynamic": []
+            }
+          },
+          "nodeID": "670a81a5253b7e41b8b72e8f"
+        },
+        "670a81a5253b7e41b8b72e92": {
+          "type": "buttons",
+          "data": {
+            "name": "Buttons",
+            "buttons": [
+              {
+                "id": "pc23s3gnl",
+                "name": "Tak",
+                "actions": []
+              },
+              {
+                "id": "a22483gkk",
+                "name": "Nie",
+                "actions": []
+              }
+            ],
+            "intentScope": "GLOBAL",
+            "noMatch": {
+              "types": [],
+              "pathName": "No match",
+              "randomize": false,
+              "reprompts": []
+            },
+            "noReply": null,
+            "portsV2": {
+              "byKey": {},
+              "builtIn": {
+                "else": {
+                  "type": "else",
+                  "target": null,
+                  "id": "670a81a5253b7e41b8b72e93"
+                }
+              },
+              "dynamic": [
+                {
+                  "type": "",
+                  "target": "670a81ad253b7e41b8b72e9f",
+                  "id": "670a81a5253b7e41b8b72e94",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          2676.3490798598837,
+                          751.4290667266501
+                        ]
+                      },
+                      {
+                        "point": [
+                          2689.99,
+                          751.4290667266501
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          2689.99,
+                          64.58
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          1947.2992535827805,
+                          64.58
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          1947.2992535827805,
+                          64.02243511829064
+                        ]
+                      },
+                      {
+                        "point": [
+                          1923.2992535827805,
+                          64.02243511829064
+                        ],
+                        "reversed": true,
+                        "allowedToTop": true
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "",
+                  "target": "670a7e70253b7e41b8b72e65",
+                  "id": "670a81a5253b7e41b8b72e95",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          2676.3490798598837,
+                          805.6790435037722
+                        ]
+                      },
+                      {
+                        "point": [
+                          2716.43,
+                          805.6790435037722
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          2716.43,
+                          -119.13
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          947.77,
+                          -119.13
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          947.77,
+                          681.9090928331344
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          845.1123028991865,
+                          681.9090928331344
+                        ],
+                        "reversed": true,
+                        "allowedToTop": true
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          "nodeID": "670a81a5253b7e41b8b72e92",
+          "coords": [
+            0,
+            0
+          ]
+        },
+        "670a81ad253b7e41b8b72e9f": {
+          "type": "block",
+          "data": {
+            "name": "New Block 7",
+            "color": "",
+            "steps": [
+              "670a81ad253b7e41b8b72ea1"
+            ]
+          },
+          "nodeID": "670a81ad253b7e41b8b72e9f",
+          "coords": [
+            1758.299421048489,
+            37.02235021331914
+          ]
+        },
+        "670a81ad253b7e41b8b72ea1": {
+          "type": "message",
+          "data": {
+            "name": "",
+            "messageID": "670a81ac6a55eadd91996501",
+            "portsV2": {
+              "byKey": {
+                "next": {
+                  "type": "next",
+                  "target": "670a81b3253b7e41b8b72ea9",
+                  "id": "670a81ad253b7e41b8b72ea2",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          1592.3,
+                          144.02
+                        ],
+                        "reversed": true
+                      },
+                      {
+                        "point": [
+                          1565.7,
+                          144.02
+                        ]
+                      },
+                      {
+                        "point": [
+                          1565.7,
+                          311.77
+                        ],
+                        "toTop": true,
+                        "allowedToTop": true
+                      }
+                    ]
+                  }
+                }
+              },
+              "builtIn": {},
+              "dynamic": []
+            }
+          },
+          "nodeID": "670a81ad253b7e41b8b72ea1"
+        },
+        "670a81b3253b7e41b8b72ea9": {
+          "type": "block",
+          "data": {
+            "name": "New Block 7",
+            "color": "",
+            "steps": [
+              "670a81b3253b7e41b8b72eab"
+            ]
+          },
+          "nodeID": "670a81b3253b7e41b8b72ea9",
+          "coords": [
+            1565.69941660157,
+            311.76518972149177
+          ]
+        },
+        "670a81b3253b7e41b8b72eab": {
+          "type": "captureV2",
+          "data": {
+            "name": "Capture",
+            "intentScope": "GLOBAL",
+            "capture": {
+              "type": "query",
+              "variable": "last_utterance"
+            },
+            "noReply": null,
+            "noMatch": null,
+            "portsV2": {
+              "byKey": {},
+              "builtIn": {
+                "next": {
+                  "type": "next",
+                  "target": "672f49a84fa3287178622659",
+                  "id": "670a81b3253b7e41b8b72eac",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          1731.699033856218,
+                          399.76512615832974
+                        ]
+                      },
+                      {
+                        "point": [
+                          1825.95,
+                          399.76512615832974
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          1825.95,
+                          636.9078721300094
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          1811.3953839538742,
+                          636.9078721300094
+                        ],
+                        "reversed": true
+                      }
+                    ]
+                  }
+                },
+                "else": {
+                  "type": "else",
+                  "target": null,
+                  "id": "670a81b3253b7e41b8b72ead"
+                }
+              },
+              "dynamic": []
+            }
+          },
+          "nodeID": "670a81b3253b7e41b8b72eab",
+          "coords": [
+            0,
+            0
+          ]
+        },
+        "670a8a43253b7e41b8b72f3a": {
+          "type": "message",
+          "data": {
+            "name": "",
+            "portsV2": {
+              "byKey": {
+                "next": {
+                  "type": "next",
+                  "target": "670a8b3b253b7e41b8b72f45",
+                  "id": "670a8a43253b7e41b8b72f3b",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          172.78,
+                          360.61
+                        ]
+                      },
+                      {
+                        "point": [
+                          196.78,
+                          360.61
+                        ]
+                      },
+                      {
+                        "point": [
+                          196.78,
+                          497.55
+                        ]
+                      },
+                      {
+                        "point": [
+                          193.93,
+                          497.55
+                        ]
+                      },
+                      {
+                        "point": [
+                          193.93,
+                          521.55
+                        ],
+                        "toTop": true,
+                        "allowedToTop": true
+                      }
+                    ]
+                  }
+                }
+              },
+              "builtIn": {},
+              "dynamic": []
+            },
+            "messageID": "670a8a7ab0df138f01cb4fac"
+          },
+          "nodeID": "670a8a43253b7e41b8b72f3a"
+        },
+        "670a8a43253b7e41b8b72f3c": {
+          "type": "block",
+          "data": {
+            "name": "consultation_redirection",
+            "steps": [
+              "670a8a43253b7e41b8b72f3a"
+            ],
+            "color": ""
+          },
+          "nodeID": "670a8a43253b7e41b8b72f3c",
+          "coords": [
+            6.775017127193628,
+            195.11075765996407
+          ]
+        },
+        "670a8b3b253b7e41b8b72f45": {
+          "type": "block",
+          "data": {
+            "name": "New Block 6",
+            "color": "",
+            "steps": [
+              "670a8b3b253b7e41b8b72f47",
+              "670a8b3b253b7e41b8b72f4a"
+            ]
+          },
+          "nodeID": "670a8b3b253b7e41b8b72f45",
+          "coords": [
+            193.93159284698297,
+            521.5499325048502
+          ]
+        },
+        "670a8b3b253b7e41b8b72f47": {
+          "type": "message",
+          "data": {
+            "name": "",
+            "messageID": "670a8b3b6a55eadd9199658f",
+            "portsV2": {
+              "byKey": {
+                "next": {
+                  "type": "next",
+                  "target": null,
+                  "id": "670a8b3b253b7e41b8b72f48"
+                }
+              },
+              "builtIn": {},
+              "dynamic": []
+            }
+          },
+          "nodeID": "670a8b3b253b7e41b8b72f47",
+          "coords": [
+            0,
+            0
+          ]
+        },
+        "670a8b3b253b7e41b8b72f4a": {
+          "type": "buttons",
+          "data": {
+            "name": "Buttons",
+            "buttons": [
+              {
+                "id": "pc23s3gnl",
+                "name": "Tak",
+                "actions": []
+              },
+              {
+                "id": "a22483gkk",
+                "name": "Nie",
+                "actions": []
+              }
+            ],
+            "intentScope": "GLOBAL",
+            "noMatch": {
+              "types": [],
+              "pathName": "No match",
+              "randomize": false,
+              "reprompts": []
+            },
+            "noReply": null,
+            "portsV2": {
+              "byKey": {},
+              "builtIn": {
+                "else": {
+                  "type": "else",
+                  "target": null,
+                  "id": "670a8b3b253b7e41b8b72f4b"
+                }
+              },
+              "dynamic": [
+                {
+                  "type": "",
+                  "target": "670a7e70253b7e41b8b72e65",
+                  "id": "670a8b3b253b7e41b8b72f4c",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          359.93,
+                          696.8
+                        ]
+                      },
+                      {
+                        "point": [
+                          437.52,
+                          696.8
+                        ]
+                      },
+                      {
+                        "point": [
+                          437.52,
+                          681.91
+                        ]
+                      },
+                      {
+                        "point": [
+                          515.11,
+                          681.91
+                        ],
+                        "allowedToTop": true
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "",
+                  "target": "671e0600e06216e70c183368",
+                  "id": "670a8b3b253b7e41b8b72f4d",
+                  "data": {}
+                }
+              ]
+            }
+          },
+          "nodeID": "670a8b3b253b7e41b8b72f4a",
+          "coords": [
+            0,
+            0
+          ]
+        },
+        "67116a27a98c6413bc274940": {
+          "type": "component",
+          "data": {
+            "name": "",
+            "diagramID": "67116867b67f555a6958c70c",
+            "portsV2": {
+              "byKey": {},
+              "builtIn": {
+                "next": {
+                  "type": "next",
+                  "target": "670a81a5253b7e41b8b72e8d",
+                  "id": "67116a27a98c6413bc274941",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          2269.43,
+                          309.41
+                        ]
+                      },
+                      {
+                        "point": [
+                          2307.39,
+                          309.41
+                        ]
+                      },
+                      {
+                        "point": [
+                          2307.39,
+                          603.18
+                        ]
+                      },
+                      {
+                        "point": [
+                          2345.35,
+                          603.18
+                        ],
+                        "allowedToTop": true
+                      }
+                    ]
+                  }
+                }
+              },
+              "dynamic": []
+            }
+          },
+          "nodeID": "67116a27a98c6413bc274940"
+        },
+        "67116a27a98c6413bc274942": {
+          "type": "block",
+          "data": {
+            "name": "gen_enco",
+            "steps": [
+              "67116a27a98c6413bc274940"
+            ],
+            "color": ""
+          },
+          "nodeID": "67116a27a98c6413bc274942",
+          "coords": [
+            2103.4304791687177,
+            230.16296856555627
+          ]
+        },
+        "671c002d8b34ea2fb5ec3770": {
+          "type": "block",
+          "data": {
+            "name": "adress_info_consultation_redirection",
+            "color": "",
+            "steps": [
+              "671c002d8b34ea2fb5ec3772"
+            ]
+          },
+          "nodeID": "671c002d8b34ea2fb5ec3770",
+          "coords": [
+            -198.22498287280638,
+            -38.639242340035906
+          ]
+        },
+        "671c002d8b34ea2fb5ec3772": {
+          "type": "message",
+          "data": {
+            "name": "",
+            "messageID": "671c002ba03d5afdd8c11640",
+            "portsV2": {
+              "byKey": {
+                "next": {
+                  "type": "next",
+                  "target": "670a8a43253b7e41b8b72f3c",
+                  "id": "671c002d8b34ea2fb5ec3773",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          -32.23,
+                          69.36
+                        ]
+                      },
+                      {
+                        "point": [
+                          6.77,
+                          69.36
+                        ]
+                      },
+                      {
+                        "point": [
+                          6.77,
+                          195.11
+                        ],
+                        "toTop": true,
+                        "allowedToTop": true
+                      }
+                    ]
+                  }
+                }
+              },
+              "builtIn": {},
+              "dynamic": []
+            }
+          },
+          "nodeID": "671c002d8b34ea2fb5ec3772"
+        },
+        "671e0600e06216e70c183367": {
+          "type": "exit",
+          "data": {
+            "name": "",
+            "portsV2": {
+              "byKey": {},
+              "builtIn": {},
+              "dynamic": []
+            }
+          },
+          "nodeID": "671e0600e06216e70c183367"
+        },
+        "671e0600e06216e70c183368": {
+          "type": "actions",
+          "data": {
+            "name": "",
+            "steps": [
+              "671e0600e06216e70c183367"
+            ]
+          },
+          "nodeID": "671e0600e06216e70c183368",
+          "coords": [
+            0,
+            0
+          ]
+        },
+        "672b22ab533b14c21328e2d0": {
+          "type": "block",
+          "data": {
+            "name": "New Block 9",
+            "color": "",
+            "steps": [
+              "672f49a84fa3287178622659",
+              "670a4703403a937b99fd34c5"
+            ]
+          },
+          "nodeID": "672b22ab533b14c21328e2d0",
+          "coords": [
+            1645.3953405509146,
+            557.9076201715874
+          ]
+        },
+        "672f49a84fa3287178622659": {
+          "type": "kb-search",
+          "data": {
+            "name": "",
+            "question": [
+              {
+                "text": [
+                  "Znajdź informację na temat zadanego pytania ",
+                  {
+                    "variableID": "last_utterance"
+                  },
+                  " ."
+                ]
+              }
+            ],
+            "maxChunks": 7,
+            "portsV2": {
+              "byKey": {
+                "next": {
+                  "type": "next",
+                  "target": null,
+                  "id": "672f49a84fa328717862265a"
+                },
+                "else": {
+                  "id": "672f9584686355b2591c5336",
+                  "target": "670a8041253b7e41b8b72e80",
+                  "type": "else",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          1479.4,
+                          708.91
+                        ],
+                        "reversed": true
+                      },
+                      {
+                        "point": [
+                          1306.72,
+                          708.91
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          1306.72,
+                          983.27
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          1300.1905211442377,
+                          983.27
+                        ],
+                        "locked": true
+                      },
+                      {
+                        "point": [
+                          1300.1905211442377,
+                          1362.7795512189114
+                        ],
+                        "toTop": true,
+                        "allowedToTop": true
+                      }
+                    ]
+                  }
+                }
+              },
+              "builtIn": {},
+              "dynamic": []
+            },
+            "variableID": "672f95797b920f7bb7471aca",
+            "noMatch": {
+              "path": true,
+              "pathLabel": "Not found",
+              "repromptID": null
+            },
+            "noMatchThreshold": 80
+          },
+          "nodeID": "672f49a84fa3287178622659"
+        }
+      },
+      "offsetX": 302.9908936551516,
+      "offsetY": 237.4448574044576,
+      "modified": 1661370006,
+      "children": [],
+      "creatorID": 1067617,
+      "variables": [],
+      "menuItems": [
+        {
+          "type": "NODE",
+          "sourceID": "start00000000000000000000"
+        }
+      ],
+      "menuNodeIDs": [],
+      "intentStepIDs": [],
+      "_id": "670a78263dba66ebe23bf667",
+      "diagramID": "63067e968cbdb692c97b063a",
+      "versionID": "670a78263dba66ebe23bf665"
+    }
+  },
+  "flows": [
+    {
+      "id": "6711686770182ac12b05a3d5",
+      "name": "contact_encouragement",
+      "createdByID": 1067617,
+      "folderID": null,
+      "diagramID": "67116867b67f555a6958c70c",
+      "description": "",
+      "createdAt": "2024-10-17T19:41:28.000Z",
+      "updatedAt": "2024-11-12T17:38:09.000Z",
+      "updatedByID": 1067617
+    }
+  ],
+  "entities": [],
+  "entityVariants": [],
+  "intents": [
+    {
+      "id": "None",
+      "name": "None",
+      "createdByID": 1067617,
+      "folderID": null,
+      "description": null,
+      "automaticReprompt": false,
+      "entityOrder": [],
+      "automaticRepromptSettings": null,
+      "createdAt": "2024-10-12T13:22:46.000Z",
+      "updatedAt": "2024-10-12T13:22:46.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "670a8a2eb0df138f01cb4f5a",
+      "name": "konsultacje",
+      "createdByID": 1067617,
+      "folderID": null,
+      "description": "",
+      "automaticReprompt": false,
+      "entityOrder": [],
+      "automaticRepromptSettings": null,
+      "createdAt": "2024-10-12T14:39:43.000Z",
+      "updatedAt": "2024-10-12T14:39:43.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "671bfea3910b1930378f5e4c",
+      "name": "lokalizacja_kancelarii",
+      "createdByID": 1067617,
+      "folderID": null,
+      "description": "",
+      "automaticReprompt": false,
+      "entityOrder": [],
+      "automaticRepromptSettings": null,
+      "createdAt": "2024-10-25T20:25:08.000Z",
+      "updatedAt": "2024-10-25T20:25:08.000Z",
+      "updatedByID": 1067617
+    }
+  ],
+  "utterances": [
+    {
+      "id": "670a8a2eb0df138f01cb4f5b",
+      "text": [
+        {
+          "text": [
+            "Chciałbym umówić się na konsultację"
+          ]
+        }
+      ],
+      "intentID": "670a8a2eb0df138f01cb4f5a",
+      "language": "en-us",
+      "createdAt": "2024-10-12T14:39:43.000Z"
+    },
+    {
+      "id": "670a8a2eb0df138f01cb4f5c",
+      "text": [
+        {
+          "text": [
+            "Jak mogę się spotkać się z prawnikiem"
+          ]
+        }
+      ],
+      "intentID": "670a8a2eb0df138f01cb4f5a",
+      "language": "en-us",
+      "createdAt": "2024-10-12T14:39:43.000Z"
+    },
+    {
+      "id": "670a8a2eb0df138f01cb4f5d",
+      "text": [
+        {
+          "text": [
+            "Jak mógłbym umówić się na konsultację z Panią Mecenas?"
+          ]
+        }
+      ],
+      "intentID": "670a8a2eb0df138f01cb4f5a",
+      "language": "en-us",
+      "createdAt": "2024-10-12T14:39:43.000Z"
+    },
+    {
+      "id": "670a8a2eb0df138f01cb4f5e",
+      "text": [
+        {
+          "text": [
+            "Chciałbym umówić spotkanie"
+          ]
+        }
+      ],
+      "intentID": "670a8a2eb0df138f01cb4f5a",
+      "language": "en-us",
+      "createdAt": "2024-10-12T14:39:43.000Z"
+    },
+    {
+      "id": "670a8a2eb0df138f01cb4f5f",
+      "text": [
+        {
+          "text": [
+            "Czy mogę porozmawiać z reprezentantem?"
+          ]
+        }
+      ],
+      "intentID": "670a8a2eb0df138f01cb4f5a",
+      "language": "en-us",
+      "createdAt": "2024-10-12T14:39:43.000Z"
+    },
+    {
+      "id": "670a8a2eb0df138f01cb4f60",
+      "text": [
+        {
+          "text": [
+            "Chcę rozmawiać z człowiekiem"
+          ]
+        }
+      ],
+      "intentID": "670a8a2eb0df138f01cb4f5a",
+      "language": "en-us",
+      "createdAt": "2024-10-12T14:39:43.000Z"
+    },
+    {
+      "id": "670a8a2eb0df138f01cb4f61",
+      "text": [
+        {
+          "text": [
+            "Chciałbym umówić spotkanie w najbliższym możliwym terminie"
+          ]
+        }
+      ],
+      "intentID": "670a8a2eb0df138f01cb4f5a",
+      "language": "en-us",
+      "createdAt": "2024-10-12T14:39:43.000Z"
+    },
+    {
+      "id": "670a8a2eb0df138f01cb4f62",
+      "text": [
+        {
+          "text": [
+            "Czy dostanę informacje na konsultacji?"
+          ]
+        }
+      ],
+      "intentID": "670a8a2eb0df138f01cb4f5a",
+      "language": "en-us",
+      "createdAt": "2024-10-12T14:39:43.000Z"
+    },
+    {
+      "id": "670a8a2eb0df138f01cb4f63",
+      "text": [
+        {
+          "text": [
+            "Chcę skonsultować pewną sprawę"
+          ]
+        }
+      ],
+      "intentID": "670a8a2eb0df138f01cb4f5a",
+      "language": "en-us",
+      "createdAt": "2024-10-12T14:39:43.000Z"
+    },
+    {
+      "id": "670a8a2eb0df138f01cb4f64",
+      "text": [
+        {
+          "text": [
+            "Czy jest możliwość umówienia konsultacji przez telefon?"
+          ]
+        }
+      ],
+      "intentID": "670a8a2eb0df138f01cb4f5a",
+      "language": "en-us",
+      "createdAt": "2024-10-12T14:39:43.000Z"
+    },
+    {
+      "id": "670a8a2eb0df138f01cb4f65",
+      "text": [
+        {
+          "text": [
+            "Potrzebuję porady prawnej "
+          ]
+        }
+      ],
+      "intentID": "670a8a2eb0df138f01cb4f5a",
+      "language": "en-us",
+      "createdAt": "2024-10-12T14:39:43.000Z"
+    },
+    {
+      "id": "671bfea3910b1930378f5e4d",
+      "text": [
+        {
+          "text": [
+            "Gdzie jest siedziba kancelarii?"
+          ]
+        }
+      ],
+      "intentID": "671bfea3910b1930378f5e4c",
+      "language": "en-us",
+      "createdAt": "2024-10-25T20:25:08.000Z"
+    },
+    {
+      "id": "671bfea3910b1930378f5e4e",
+      "text": [
+        {
+          "text": [
+            "Gdzie znajduję się biuro kancelarii?"
+          ]
+        }
+      ],
+      "intentID": "671bfea3910b1930378f5e4c",
+      "language": "en-us",
+      "createdAt": "2024-10-25T20:25:08.000Z"
+    },
+    {
+      "id": "671bfea3910b1930378f5e4f",
+      "text": [
+        {
+          "text": [
+            "Czy mogę umówić się na konsultacje stacjonarne?"
+          ]
+        }
+      ],
+      "intentID": "671bfea3910b1930378f5e4c",
+      "language": "en-us",
+      "createdAt": "2024-10-25T20:25:08.000Z"
+    },
+    {
+      "id": "671bfea3910b1930378f5e50",
+      "text": [
+        {
+          "text": [
+            "Gdzie znajduje się fizycznie biuro prawnicze?"
+          ]
+        }
+      ],
+      "intentID": "671bfea3910b1930378f5e4c",
+      "language": "en-us",
+      "createdAt": "2024-10-25T20:25:08.000Z"
+    },
+    {
+      "id": "671bfea3910b1930378f5e51",
+      "text": [
+        {
+          "text": [
+            "Czy można spotkać się twarzą w twarz w siedzibie firmy?"
+          ]
+        }
+      ],
+      "intentID": "671bfea3910b1930378f5e4c",
+      "language": "en-us",
+      "createdAt": "2024-10-25T20:25:08.000Z"
+    },
+    {
+      "id": "671bfea3910b1930378f5e52",
+      "text": [
+        {
+          "text": [
+            "Proszę o podanie adresu kancelarii."
+          ]
+        }
+      ],
+      "intentID": "671bfea3910b1930378f5e4c",
+      "language": "en-us",
+      "createdAt": "2024-10-25T20:25:08.000Z"
+    },
+    {
+      "id": "671bfea3910b1930378f5e53",
+      "text": [
+        {
+          "text": [
+            "Gdzie dokładnie jest zlokalizowane biuro kancelarii?"
+          ]
+        }
+      ],
+      "intentID": "671bfea3910b1930378f5e4c",
+      "language": "en-us",
+      "createdAt": "2024-10-25T20:25:08.000Z"
+    },
+    {
+      "id": "671bfea3910b1930378f5e54",
+      "text": [
+        {
+          "text": [
+            "Czy mogę umówić się na spotkanie osobiste w biurze?"
+          ]
+        }
+      ],
+      "intentID": "671bfea3910b1930378f5e4c",
+      "language": "en-us",
+      "createdAt": "2024-10-25T20:25:08.000Z"
+    },
+    {
+      "id": "671bfea3910b1930378f5e55",
+      "text": [
+        {
+          "text": [
+            "Proszę o udzielenie informacji na temat umiejscowienia kancelarii."
+          ]
+        }
+      ],
+      "intentID": "671bfea3910b1930378f5e4c",
+      "language": "en-us",
+      "createdAt": "2024-10-25T20:25:08.000Z"
+    },
+    {
+      "id": "671bfea3910b1930378f5e56",
+      "text": [
+        {
+          "text": [
+            "Czy istnieje możliwość odwiedzenia biura kancelarii osobiście?"
+          ]
+        }
+      ],
+      "intentID": "671bfea3910b1930378f5e4c",
+      "language": "en-us",
+      "createdAt": "2024-10-25T20:25:08.000Z"
+    },
+    {
+      "id": "671bfea3910b1930378f5e57",
+      "text": [
+        {
+          "text": [
+            "Gdzie mogę znaleźć dokładną lokalizację biura kancelarii?"
+          ]
+        }
+      ],
+      "intentID": "671bfea3910b1930378f5e4c",
+      "language": "en-us",
+      "createdAt": "2024-10-25T20:25:08.000Z"
+    },
+    {
+      "id": "671bfea3910b1930378f5e58",
+      "text": [
+        {
+          "text": [
+            "Czy spotkania osobiste są możliwe w lokalizacji biura?"
+          ]
+        }
+      ],
+      "intentID": "671bfea3910b1930378f5e4c",
+      "language": "en-us",
+      "createdAt": "2024-10-25T20:25:08.000Z"
+    },
+    {
+      "id": "671bfea3910b1930378f5e59",
+      "text": [
+        {
+          "text": [
+            "Czy kancelaria ma biuro w określonym miejscu?"
+          ]
+        }
+      ],
+      "intentID": "671bfea3910b1930378f5e4c",
+      "language": "en-us",
+      "createdAt": "2024-10-25T20:25:08.000Z"
+    }
+  ],
+  "requiredEntities": [],
+  "folders": [],
+  "responses": [
+    {
+      "id": "671e080a1a303b9ba8509ce2",
+      "name": "",
+      "createdByID": 1067617,
+      "folderID": null,
+      "type": "message",
+      "draft": false,
+      "createdAt": "2024-10-27T09:29:46.000Z",
+      "updatedAt": "2024-10-27T09:29:59.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "671e07bf1a303b9ba8509cd4",
+      "name": "",
+      "createdByID": 1067617,
+      "folderID": null,
+      "type": "message",
+      "draft": false,
+      "createdAt": "2024-10-27T09:28:32.000Z",
+      "updatedAt": "2024-10-27T09:28:54.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "671e08471a303b9ba8509ced",
+      "name": "",
+      "createdByID": 1067617,
+      "folderID": null,
+      "type": "message",
+      "draft": false,
+      "createdAt": "2024-10-27T09:30:48.000Z",
+      "updatedAt": "2024-10-27T09:30:50.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "670045fc56a48f0008251986",
+      "name": "",
+      "createdByID": 1067617,
+      "folderID": null,
+      "type": "message",
+      "draft": false,
+      "createdAt": "2024-10-12T13:22:46.000Z",
+      "updatedAt": "2024-10-12T13:22:46.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "670a49433b9e9c04e0879f09",
+      "name": "",
+      "createdByID": 1067617,
+      "folderID": null,
+      "type": "message",
+      "draft": false,
+      "createdAt": "2024-10-12T13:22:46.000Z",
+      "updatedAt": "2024-10-12T13:22:46.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "670591f03dff1971c5d6573f",
+      "name": "",
+      "createdByID": 1067617,
+      "folderID": null,
+      "type": "message",
+      "draft": false,
+      "createdAt": "2024-10-12T13:22:46.000Z",
+      "updatedAt": "2024-10-12T13:22:46.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "6705930e3dff1971c5d65852",
+      "name": "",
+      "createdByID": 1067617,
+      "folderID": null,
+      "type": "message",
+      "draft": false,
+      "createdAt": "2024-10-12T13:22:46.000Z",
+      "updatedAt": "2024-10-12T13:22:46.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "670595d83dff1971c5d659ca",
+      "name": "",
+      "createdByID": 1067617,
+      "folderID": null,
+      "type": "message",
+      "draft": false,
+      "createdAt": "2024-10-12T13:22:46.000Z",
+      "updatedAt": "2024-10-12T13:22:46.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "670596a13dff1971c5d65a55",
+      "name": "",
+      "createdByID": 1067617,
+      "folderID": null,
+      "type": "message",
+      "draft": false,
+      "createdAt": "2024-10-12T13:22:46.000Z",
+      "updatedAt": "2024-10-12T13:22:46.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "670598883dff1971c5d65c12",
+      "name": "",
+      "createdByID": 1067617,
+      "folderID": null,
+      "type": "message",
+      "draft": false,
+      "createdAt": "2024-10-12T13:22:46.000Z",
+      "updatedAt": "2024-10-12T13:22:46.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "670a7e706a55eadd919964db",
+      "name": "",
+      "createdByID": 1067617,
+      "folderID": null,
+      "type": "message",
+      "draft": false,
+      "createdAt": "2024-10-12T13:49:36.000Z",
+      "updatedAt": "2024-10-12T13:49:36.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "670a80406a55eadd919964f4",
+      "name": "",
+      "createdByID": 1067617,
+      "folderID": null,
+      "type": "message",
+      "draft": false,
+      "createdAt": "2024-10-12T13:57:21.000Z",
+      "updatedAt": "2024-10-12T13:57:21.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "670a81ac6a55eadd91996501",
+      "name": "",
+      "createdByID": 1067617,
+      "folderID": null,
+      "type": "message",
+      "draft": false,
+      "createdAt": "2024-10-12T14:03:24.000Z",
+      "updatedAt": "2024-10-12T14:03:24.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "670a81a46a55eadd919964fd",
+      "name": "",
+      "createdByID": 1067617,
+      "folderID": null,
+      "type": "message",
+      "draft": false,
+      "createdAt": "2024-10-12T14:03:17.000Z",
+      "updatedAt": "2024-10-12T14:03:17.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "670a8a7ab0df138f01cb4fac",
+      "name": "",
+      "createdByID": 1067617,
+      "folderID": null,
+      "type": "message",
+      "draft": false,
+      "createdAt": "2024-10-12T14:40:59.000Z",
+      "updatedAt": "2024-10-12T14:41:00.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "670a8b3b6a55eadd9199658f",
+      "name": "",
+      "createdByID": 1067617,
+      "folderID": null,
+      "type": "message",
+      "draft": false,
+      "createdAt": "2024-10-12T14:44:11.000Z",
+      "updatedAt": "2024-10-12T14:44:11.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "671c002ba03d5afdd8c11640",
+      "name": "",
+      "createdByID": 1067617,
+      "folderID": null,
+      "type": "message",
+      "draft": false,
+      "createdAt": "2024-10-25T20:31:40.000Z",
+      "updatedAt": "2024-10-25T20:31:40.000Z",
+      "updatedByID": 1067617
+    }
+  ],
+  "responseMessages": [
+    {
+      "id": "670a7e706a55eadd919964dd",
+      "discriminatorID": "670a7e706a55eadd919964dc",
+      "text": [
+        {
+          "text": [
+            "Z jakiego zakresu tematu mogę ci pomóc?"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T13:49:36.000Z"
+    },
+    {
+      "id": "670a7eceb0df138f01cb48ae",
+      "discriminatorID": "670a7e706a55eadd919964dc",
+      "text": [
+        {
+          "text": [
+            ""
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T13:51:10.000Z"
+    },
+    {
+      "id": "670a81ac6a55eadd91996503",
+      "discriminatorID": "670a81ac6a55eadd91996502",
+      "text": [
+        {
+          "text": [
+            "Fantastycznie, zadaj mi kolejne pytanie"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T14:03:24.000Z"
+    },
+    {
+      "id": "670a81ac6a55eadd91996504",
+      "discriminatorID": "670a81ac6a55eadd91996502",
+      "text": [
+        {
+          "text": [
+            "Rewelacyjnie, proszę zadaj mi kolejne pytanie"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T14:03:24.000Z"
+    },
+    {
+      "id": "670a81ac6a55eadd91996505",
+      "discriminatorID": "670a81ac6a55eadd91996502",
+      "text": [
+        {
+          "text": [
+            "Świetnie, zadaj mi kolejne pytanie"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T14:03:24.000Z"
+    },
+    {
+      "id": "670a81ac6a55eadd91996506",
+      "discriminatorID": "670a81ac6a55eadd91996502",
+      "text": [
+        {
+          "text": [
+            "Super, proszę kolejne pytanie"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T14:03:24.000Z"
+    },
+    {
+      "id": "670a81ac6a55eadd91996507",
+      "discriminatorID": "670a81ac6a55eadd91996502",
+      "text": [
+        {
+          "text": [
+            "Doskonale, proszę zadaj mi kolejne pytanie"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T14:03:24.000Z"
+    },
+    {
+      "id": "670a81ac6a55eadd91996508",
+      "discriminatorID": "670a81ac6a55eadd91996502",
+      "text": [
+        {
+          "text": [
+            "Wspaniale, proszę zadaj mi kolejne pytanie"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T14:03:24.000Z"
+    },
+    {
+      "id": "670a81a46a55eadd919964ff",
+      "discriminatorID": "670a81a46a55eadd919964fe",
+      "text": [
+        {
+          "text": [
+            "Czy mogę ci jeszcze jakoś pomóc?"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T14:03:17.000Z"
+    },
+    {
+      "id": "670a81a46a55eadd91996500",
+      "discriminatorID": "670a81a46a55eadd919964fe",
+      "text": [
+        {
+          "text": [
+            "Czy mogę ci w czymś jeszcze pomóc?"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T14:03:17.000Z"
+    },
+    {
+      "id": "670a8b3b6a55eadd91996591",
+      "discriminatorID": "670a8b3b6a55eadd91996590",
+      "text": [
+        {
+          "text": [
+            "Czy mogę ci jeszcze jakoś pomóc?"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T14:44:11.000Z"
+    },
+    {
+      "id": "670a8b3b6a55eadd91996592",
+      "discriminatorID": "670a8b3b6a55eadd91996590",
+      "text": [
+        {
+          "text": [
+            "Czy mogę ci w czymś jeszcze pomóc?"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T14:44:11.000Z"
+    },
+    {
+      "id": "6705930e3dff1971c5d65854",
+      "discriminatorID": "6705930e3dff1971c5d65853",
+      "text": [
+        {
+          "text": [
+            ""
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "670595d83dff1971c5d659cc",
+      "discriminatorID": "670595d83dff1971c5d659cb",
+      "text": [
+        {
+          "text": [
+            "Najmocniej przepraszam aie udało mi się znaleść odpowiedzi na twoje pytanie. Aby jak najlepiej ci pomóc, zachęcam do wysłania twojego pytania na mail: ",
+            {
+              "variableID": "670595283dff1971c5d65976"
+            },
+            " , albo kontkatu telefoniczego na numer ",
+            {
+              "variableID": "6705954e3dff1971c5d6597e"
+            },
+            "."
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "670596a13dff1971c5d65a57",
+      "discriminatorID": "670596a13dff1971c5d65a56",
+      "text": [
+        {
+          "text": [
+            "Czy mogę ci jeszcze jakoś pomóc?"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "670596a73dff1971c5d65a61",
+      "discriminatorID": "670596a13dff1971c5d65a56",
+      "text": [
+        {
+          "text": [
+            "Czy mogę ci w czymś jeszcze pomóc?"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "670045fc56a48f0008251988",
+      "discriminatorID": "670045fc56a48f0008251987",
+      "text": [
+        {
+          "text": [
+            "Witaj na stronie kancelarii Iwony Rzucidło"
+          ]
+        },
+        {
+          "text": [
+            {
+              "text": [
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "text": [
+            "Jestem asystentem który z chęcią odpowie na twoje pytania."
+          ]
+        },
+        {
+          "text": [
+            {
+              "text": [
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "text": [
+            "W czym mogę ci pomóc? "
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "670591f03dff1971c5d65741",
+      "discriminatorID": "670591f03dff1971c5d65740",
+      "text": [
+        {
+          "text": [
+            "Oczywiście, proszę zadaj mi pytanie"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "670592063dff1971c5d65766",
+      "discriminatorID": "670591f03dff1971c5d65740",
+      "text": [
+        {
+          "text": [
+            "oczywiście, chętnie odpowiem na twoje pytanie"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "670592063dff1971c5d65767",
+      "discriminatorID": "670591f03dff1971c5d65740",
+      "text": [
+        {
+          "text": [
+            "oczywiście, czekam na twoje pytanie"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "670593273dff1971c5d65861",
+      "discriminatorID": "6705930e3dff1971c5d65853",
+      "text": [
+        {
+          "text": [
+            "Czy mogę w czymś jeszcze pomóc?"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "6705932b3dff1971c5d65862",
+      "discriminatorID": "6705930e3dff1971c5d65853",
+      "text": [
+        {
+          "text": [
+            "Potrzebujesz jeszcze jakiejś pomocy?"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "6705989b3dff1971c5d65c1b",
+      "discriminatorID": "670598883dff1971c5d65c13",
+      "text": [
+        {
+          "text": [
+            "Fantastycznie, zadaj mi kolejne pytanie"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "6705989b3dff1971c5d65c1c",
+      "discriminatorID": "670598883dff1971c5d65c13",
+      "text": [
+        {
+          "text": [
+            "Rewelacyjnie, proszę zadaj mi kolejne pytanie"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "6705989b3dff1971c5d65c1d",
+      "discriminatorID": "670598883dff1971c5d65c13",
+      "text": [
+        {
+          "text": [
+            "Świetnie, zadaj mi kolejne pytanie"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "6705989b3dff1971c5d65c1e",
+      "discriminatorID": "670598883dff1971c5d65c13",
+      "text": [
+        {
+          "text": [
+            "Super, proszę kolejne pytanie"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "6705989b3dff1971c5d65c1f",
+      "discriminatorID": "670598883dff1971c5d65c13",
+      "text": [
+        {
+          "text": [
+            "Doskonale, proszę zadaj mi kolejne pytanie"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "670598883dff1971c5d65c14",
+      "discriminatorID": "670598883dff1971c5d65c13",
+      "text": [
+        {
+          "text": [
+            "Wspaniale, proszę zadaj mi kolejne pytanie"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "670a49433b9e9c04e0879f0b",
+      "discriminatorID": "670a49433b9e9c04e0879f0a",
+      "text": [
+        {
+          "text": [
+            "Oczywiście, proszę zadaj mi pytanie"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "670a49433b9e9c04e0879f0c",
+      "discriminatorID": "670a49433b9e9c04e0879f0a",
+      "text": [
+        {
+          "text": [
+            "oczywiście, chętnie odpowiem na twoje pytanie"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "670a49433b9e9c04e0879f0d",
+      "discriminatorID": "670a49433b9e9c04e0879f0a",
+      "text": [
+        {
+          "text": [
+            "oczywiście, czekam na twoje pytanie"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "671e080a1a303b9ba8509ce4",
+      "discriminatorID": "671e080a1a303b9ba8509ce3",
+      "text": [
+        {
+          "text": [
+            "Wybierz temat rozmowy"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-27T09:29:46.000Z"
+    },
+    {
+      "id": "671e07bf1a303b9ba8509cd6",
+      "discriminatorID": "671e07bf1a303b9ba8509cd5",
+      "text": [
+        {
+          "text": [
+            "Wybierz temat rozmowy"
+          ]
+        },
+        {
+          "text": [
+            {
+              "text": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-27T09:28:32.000Z"
+    },
+    {
+      "id": "671e08471a303b9ba8509cef",
+      "discriminatorID": "671e08471a303b9ba8509cee",
+      "text": [
+        {
+          "text": [
+            "Wybierz najpierw temat rozmowy"
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-27T09:30:48.000Z"
+    },
+    {
+      "id": "670a80406a55eadd919964f6",
+      "discriminatorID": "670a80406a55eadd919964f5",
+      "text": [
+        {
+          "text": [
+            "Najmocniej przepraszam aie udało mi się znaleść odpowiedzi na twoje pytanie."
+          ]
+        },
+        {
+          "text": [
+            {
+              "text": [
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "text": [
+            "Aby jak najlepiej ci pomóc, zachęcam do wysłania twojego pytania na mail: ",
+            {
+              "variableID": "670595283dff1971c5d65976"
+            },
+            " , albo kontkatu telefoniczego na numer ",
+            {
+              "variableID": "6705954e3dff1971c5d6597e"
+            },
+            "."
+          ]
+        },
+        {
+          "text": [
+            {
+              "text": [
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "text": [
+            "Jeśli chciałbyś zadać pytanie bezpośrenio, zachęcam do wypełnienia formularzu kontaktowego :"
+          ]
+        },
+        {
+          "text": [
+            "",
+            {
+              "variableID": "670a8113b0df138f01cb4a77"
+            },
+            " "
+          ]
+        },
+        {
+          "text": [
+            {
+              "text": [
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "text": [
+            "FAILED CHUNKS: ",
+            {
+              "variableID": "672f95797b920f7bb7471aca"
+            },
+            " "
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T13:57:21.000Z"
+    },
+    {
+      "id": "671c002ba03d5afdd8c11642",
+      "discriminatorID": "671c002ba03d5afdd8c11641",
+      "text": [
+        {
+          "text": [
+            "Siedziba Kancelarii znajduje się na: ",
+            {
+              "variableID": "671c001b910b1930378f5fa2"
+            },
+            " . Zaś adres korespondencyjny to: ",
+            {
+              "variableID": "671bffda910b1930378f5f6f"
+            },
+            " ."
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-25T20:31:40.000Z"
+    },
+    {
+      "id": "670a8a7ab0df138f01cb4fae",
+      "discriminatorID": "670a8a7ab0df138f01cb4fad",
+      "text": [
+        {
+          "text": [
+            "W celu jak naszybszego kontaktu zadzwoń na numer: ",
+            {
+              "variableID": "6705954e3dff1971c5d6597e"
+            },
+            " ."
+          ]
+        },
+        {
+          "text": [
+            {
+              "text": [
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "text": [
+            "Jeśli konsultant nie jest aktualnie dostępny, zachęcam do wypełnienia formularza kontaktowego :"
+          ]
+        },
+        {
+          "text": [
+            "",
+            {
+              "variableID": "670a8113b0df138f01cb4a77"
+            },
+            " "
+          ]
+        }
+      ],
+      "condition": null,
+      "delay": null,
+      "createdAt": "2024-10-12T14:40:59.000Z"
+    }
+  ],
+  "responseDiscriminators": [
+    {
+      "id": "670a7e706a55eadd919964dc",
+      "channel": "default",
+      "language": "en-us",
+      "responseID": "670a7e706a55eadd919964db",
+      "variantOrder": [
+        "670a7e706a55eadd919964dd",
+        "670a7eceb0df138f01cb48ae"
+      ],
+      "createdAt": "2024-10-12T13:49:36.000Z"
+    },
+    {
+      "id": "670a8a7ab0df138f01cb4fad",
+      "channel": "default",
+      "language": "en-us",
+      "responseID": "670a8a7ab0df138f01cb4fac",
+      "variantOrder": [
+        "670a8a7ab0df138f01cb4fae"
+      ],
+      "createdAt": "2024-10-12T14:40:59.000Z"
+    },
+    {
+      "id": "670a80406a55eadd919964f5",
+      "channel": "default",
+      "language": "en-us",
+      "responseID": "670a80406a55eadd919964f4",
+      "variantOrder": [
+        "670a80406a55eadd919964f6"
+      ],
+      "createdAt": "2024-10-12T13:57:21.000Z"
+    },
+    {
+      "id": "670a81ac6a55eadd91996502",
+      "channel": "default",
+      "language": "en-us",
+      "responseID": "670a81ac6a55eadd91996501",
+      "variantOrder": [
+        "670a81ac6a55eadd91996508",
+        "670a81ac6a55eadd91996503",
+        "670a81ac6a55eadd91996504",
+        "670a81ac6a55eadd91996505",
+        "670a81ac6a55eadd91996506",
+        "670a81ac6a55eadd91996507"
+      ],
+      "createdAt": "2024-10-12T14:03:24.000Z"
+    },
+    {
+      "id": "670a8b3b6a55eadd91996590",
+      "channel": "default",
+      "language": "en-us",
+      "responseID": "670a8b3b6a55eadd9199658f",
+      "variantOrder": [
+        "670a8b3b6a55eadd91996591",
+        "670a8b3b6a55eadd91996592"
+      ],
+      "createdAt": "2024-10-12T14:44:11.000Z"
+    },
+    {
+      "id": "670a81a46a55eadd919964fe",
+      "channel": "default",
+      "language": "en-us",
+      "responseID": "670a81a46a55eadd919964fd",
+      "variantOrder": [
+        "670a81a46a55eadd919964ff",
+        "670a81a46a55eadd91996500"
+      ],
+      "createdAt": "2024-10-12T14:03:17.000Z"
+    },
+    {
+      "id": "670045fc56a48f0008251987",
+      "channel": "default",
+      "language": "en-us",
+      "responseID": "670045fc56a48f0008251986",
+      "variantOrder": [
+        "670045fc56a48f0008251988"
+      ],
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "670a49433b9e9c04e0879f0a",
+      "channel": "default",
+      "language": "en-us",
+      "responseID": "670a49433b9e9c04e0879f09",
+      "variantOrder": [
+        "670a49433b9e9c04e0879f0b",
+        "670a49433b9e9c04e0879f0c",
+        "670a49433b9e9c04e0879f0d"
+      ],
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "670591f03dff1971c5d65740",
+      "channel": "default",
+      "language": "en-us",
+      "responseID": "670591f03dff1971c5d6573f",
+      "variantOrder": [
+        "670591f03dff1971c5d65741",
+        "670592063dff1971c5d65766",
+        "670592063dff1971c5d65767"
+      ],
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "6705930e3dff1971c5d65853",
+      "channel": "default",
+      "language": "en-us",
+      "responseID": "6705930e3dff1971c5d65852",
+      "variantOrder": [
+        "6705930e3dff1971c5d65854",
+        "670593273dff1971c5d65861",
+        "6705932b3dff1971c5d65862"
+      ],
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "670595d83dff1971c5d659cb",
+      "channel": "default",
+      "language": "en-us",
+      "responseID": "670595d83dff1971c5d659ca",
+      "variantOrder": [
+        "670595d83dff1971c5d659cc"
+      ],
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "670598883dff1971c5d65c13",
+      "channel": "default",
+      "language": "en-us",
+      "responseID": "670598883dff1971c5d65c12",
+      "variantOrder": [
+        "670598883dff1971c5d65c14",
+        "6705989b3dff1971c5d65c1b",
+        "6705989b3dff1971c5d65c1c",
+        "6705989b3dff1971c5d65c1d",
+        "6705989b3dff1971c5d65c1e",
+        "6705989b3dff1971c5d65c1f"
+      ],
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "670596a13dff1971c5d65a56",
+      "channel": "default",
+      "language": "en-us",
+      "responseID": "670596a13dff1971c5d65a55",
+      "variantOrder": [
+        "670596a13dff1971c5d65a57",
+        "670596a73dff1971c5d65a61"
+      ],
+      "createdAt": "2024-10-12T13:22:46.000Z"
+    },
+    {
+      "id": "671c002ba03d5afdd8c11641",
+      "channel": "default",
+      "language": "en-us",
+      "responseID": "671c002ba03d5afdd8c11640",
+      "variantOrder": [
+        "671c002ba03d5afdd8c11642"
+      ],
+      "createdAt": "2024-10-25T20:31:40.000Z"
+    },
+    {
+      "id": "671e07bf1a303b9ba8509cd5",
+      "channel": "default",
+      "language": "en-us",
+      "responseID": "671e07bf1a303b9ba8509cd4",
+      "variantOrder": [
+        "671e07bf1a303b9ba8509cd6"
+      ],
+      "createdAt": "2024-10-27T09:28:32.000Z"
+    },
+    {
+      "id": "671e08471a303b9ba8509cee",
+      "channel": "default",
+      "language": "en-us",
+      "responseID": "671e08471a303b9ba8509ced",
+      "variantOrder": [
+        "671e08471a303b9ba8509cef"
+      ],
+      "createdAt": "2024-10-27T09:30:48.000Z"
+    },
+    {
+      "id": "671e080a1a303b9ba8509ce3",
+      "channel": "default",
+      "language": "en-us",
+      "responseID": "671e080a1a303b9ba8509ce2",
+      "variantOrder": [
+        "671e080a1a303b9ba8509ce4"
+      ],
+      "createdAt": "2024-10-27T09:29:46.000Z"
+    }
+  ],
+  "variables": [
+    {
+      "id": "671bffda910b1930378f5f6f",
+      "name": "mailing_address",
+      "createdByID": 1067617,
+      "folderID": null,
+      "color": "#515A63",
+      "isArray": false,
+      "isSystem": false,
+      "datatype": "any",
+      "description": "",
+      "defaultValue": "al. Rzeczypospolitej 22c/72, Warszawa ",
+      "createdAt": "2024-10-25T20:30:18.000Z",
+      "updatedAt": "2024-10-25T20:30:18.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "671c001b910b1930378f5fa2",
+      "name": "office_address",
+      "createdByID": 1067617,
+      "folderID": null,
+      "color": "#515A63",
+      "isArray": false,
+      "isSystem": false,
+      "datatype": "any",
+      "description": "",
+      "defaultValue": "ul. Śniadeckich 10, Warszawa",
+      "createdAt": "2024-10-25T20:31:24.000Z",
+      "updatedAt": "2024-10-25T20:31:24.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "sessions",
+      "name": "sessions",
+      "createdByID": 1067617,
+      "folderID": null,
+      "color": "#515A63",
+      "isArray": false,
+      "isSystem": true,
+      "datatype": "number",
+      "description": "The number of times a particular user has opened the app.",
+      "defaultValue": null,
+      "createdAt": "2024-10-12T13:22:46.000Z",
+      "updatedAt": "2024-10-12T13:22:46.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "user_id",
+      "name": "user_id",
+      "createdByID": 1067617,
+      "folderID": null,
+      "color": "#515A63",
+      "isArray": false,
+      "isSystem": true,
+      "datatype": "text",
+      "description": "The user's unique ID.",
+      "defaultValue": null,
+      "createdAt": "2024-10-12T13:22:46.000Z",
+      "updatedAt": "2024-10-12T13:22:46.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "timestamp",
+      "name": "timestamp",
+      "createdByID": 1067617,
+      "folderID": null,
+      "color": "#515A63",
+      "isArray": false,
+      "isSystem": true,
+      "datatype": "text",
+      "description": "UNIX timestamp (number of seconds since January 1st, 1970 at UTC).",
+      "defaultValue": null,
+      "createdAt": "2024-10-12T13:22:46.000Z",
+      "updatedAt": "2024-10-12T13:22:46.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "platform",
+      "name": "platform",
+      "createdByID": 1067617,
+      "folderID": null,
+      "color": "#515A63",
+      "isArray": false,
+      "isSystem": true,
+      "datatype": "text",
+      "description": "The platform your agent is running on (e.g. \"voiceflow\").",
+      "defaultValue": null,
+      "createdAt": "2024-10-12T13:22:46.000Z",
+      "updatedAt": "2024-10-12T13:22:46.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "locale",
+      "name": "locale",
+      "createdByID": 1067617,
+      "folderID": null,
+      "color": "#515A63",
+      "isArray": false,
+      "isSystem": true,
+      "datatype": "text",
+      "description": "The locale of the user (eg. en-US, en-CA, it-IT, fr-FR, ...).",
+      "defaultValue": null,
+      "createdAt": "2024-10-12T13:22:46.000Z",
+      "updatedAt": "2024-10-12T13:22:46.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "intent_confidence",
+      "name": "intent_confidence",
+      "createdByID": 1067617,
+      "folderID": null,
+      "color": "#515A63",
+      "isArray": false,
+      "isSystem": true,
+      "datatype": "number",
+      "description": "The confidence interval (measured as a value from 0 to 100) for the most recently matched intent.",
+      "defaultValue": null,
+      "createdAt": "2024-10-12T13:22:46.000Z",
+      "updatedAt": "2024-10-12T13:22:46.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "last_response",
+      "name": "last_response",
+      "createdByID": 1067617,
+      "folderID": null,
+      "color": "#515A63",
+      "isArray": false,
+      "isSystem": true,
+      "datatype": "text",
+      "description": "The agent's last response (text/speak) in a string.",
+      "defaultValue": null,
+      "createdAt": "2024-10-12T13:22:46.000Z",
+      "updatedAt": "2024-10-12T13:22:46.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "last_event",
+      "name": "last_event",
+      "createdByID": 1067617,
+      "folderID": null,
+      "color": "#515A63",
+      "isArray": false,
+      "isSystem": true,
+      "datatype": "any",
+      "description": "The object containing the last event that the user client has triggered.",
+      "defaultValue": null,
+      "createdAt": "2024-10-12T13:22:46.000Z",
+      "updatedAt": "2024-10-12T13:22:46.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "last_utterance",
+      "name": "last_utterance",
+      "createdByID": 1067617,
+      "folderID": null,
+      "color": "#515A63",
+      "isArray": false,
+      "isSystem": true,
+      "datatype": "text",
+      "description": "The user's last utterance in a text string.",
+      "defaultValue": null,
+      "createdAt": "2024-10-12T13:22:46.000Z",
+      "updatedAt": "2024-10-12T13:22:46.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "vf_memory",
+      "name": "vf_memory",
+      "createdByID": 1067617,
+      "folderID": null,
+      "color": "#515A63",
+      "isArray": false,
+      "isSystem": true,
+      "datatype": "text",
+      "description": "Last 10 user inputs and agent responses in a string (e.g. \"agent: How can i help?\"\nuser: What's the weather today?).",
+      "defaultValue": null,
+      "createdAt": "2024-10-12T13:22:46.000Z",
+      "updatedAt": "2024-10-12T13:22:46.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "6701644e258e07e042bd8b3b",
+      "name": "agent_persona",
+      "createdByID": 1067617,
+      "folderID": null,
+      "color": "#515A63",
+      "isArray": false,
+      "isSystem": false,
+      "datatype": "any",
+      "description": "",
+      "defaultValue": null,
+      "createdAt": "2024-10-12T13:22:46.000Z",
+      "updatedAt": "2024-10-12T13:22:46.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "670595283dff1971c5d65976",
+      "name": "contact_info_mail",
+      "createdByID": 1067617,
+      "folderID": null,
+      "color": "#515A63",
+      "isArray": false,
+      "isSystem": false,
+      "datatype": "any",
+      "description": "Returns office contact details",
+      "defaultValue": "kancelaria@kancelariarzucidlo.pl",
+      "createdAt": "2024-10-12T13:22:46.000Z",
+      "updatedAt": "2024-10-12T13:22:46.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "6705954e3dff1971c5d6597e",
+      "name": "contact_info_phone_number",
+      "createdByID": 1067617,
+      "folderID": null,
+      "color": "#515A63",
+      "isArray": false,
+      "isSystem": false,
+      "datatype": "any",
+      "description": "",
+      "defaultValue": "+48 784 748 211",
+      "createdAt": "2024-10-12T13:22:46.000Z",
+      "updatedAt": "2024-10-12T13:22:46.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "670a8113b0df138f01cb4a77",
+      "name": "contact_form_link",
+      "createdByID": 1067617,
+      "folderID": null,
+      "color": "#515A63",
+      "isArray": false,
+      "isSystem": false,
+      "datatype": "any",
+      "description": "",
+      "defaultValue": "https://kancelariarzucidlo.pl/kontakt/",
+      "createdAt": "2024-10-12T14:00:52.000Z",
+      "updatedAt": "2024-10-12T14:00:52.000Z",
+      "updatedByID": 1067617
+    },
+    {
+      "id": "672f95797b920f7bb7471aca",
+      "name": "get_kb_response",
+      "createdByID": 1067617,
+      "folderID": null,
+      "color": "#515A63",
+      "isArray": false,
+      "isSystem": false,
+      "datatype": "any",
+      "description": "",
+      "defaultValue": null,
+      "createdAt": "2024-11-09T17:01:45.000Z",
+      "updatedAt": "2024-11-09T17:01:45.000Z",
+      "updatedByID": 1067617
+    }
+  ],
+  "workflows": [
+    {
+      "id": "670045fc56a48f0008251985",
+      "name": "Home",
+      "createdByID": 1067617,
+      "folderID": null,
+      "status": null,
+      "isStart": true,
+      "diagramID": "63067e968cbdb692c97b063a",
+      "assigneeID": null,
+      "description": null,
+      "createdAt": "2024-10-12T13:22:46.000Z",
+      "updatedAt": "2024-11-15T16:52:55.000Z",
+      "updatedByID": 1067617
+    }
+  ],
+  "attachments": [],
+  "cardButtons": [],
+  "prompts": [],
+  "promptMessages": [],
+  "events": [],
+  "functions": [],
+  "functionPaths": [],
+  "functionVariables": [],
+  "project": {
+    "type": "chat",
+    "name": "IRz - WIP",
+    "image": "",
+    "teamID": "bgjLmoDKnd",
+    "members": [],
+    "privacy": "private",
+    "platform": "webchat",
+    "_version": 1.2,
+    "linkType": "STRAIGHT",
+    "creatorID": 1067617,
+    "updatedBy": 1067617,
+    "apiPrivacy": "private",
+    "platformData": {
+      "invocationName": "template project general"
+    },
+    "customThemes": [],
+    "aiAssistSettings": {
+      "aiPlayground": true
+    },
+    "_id": "670a78263dba66ebe23bf664",
+    "updatedAt": "2024-11-12T17:38:09.882Z",
+    "knowledgeBase": {
+      "settings": {
+        "summarization": {
+          "mode": "prompt",
+          "model": "claude-3-haiku",
+          "prompt": "",
+          "system": "You are an FAQ AI chat agent. Information will be provided to help answer the user's questions. Always summarize your response to be as brief as possible and be extremely concise. Your responses should be fewer than a couple of sentences.",
+          "maxTokens": 128,
+          "temperature": 0.1
+        },
+        "chunkStrategy": {
+          "size": 1200,
+          "type": "recursive_text_splitter",
+          "overlap": 200
+        },
+        "search": {
+          "limit": 3,
+          "metric": "IP"
+        },
+        "embeddingModel": {
+          "size": 1024,
+          "model": "text-embedding-3-large"
+        }
+      },
+      "documents": {
+        "670a7844e7ee1e25f85eba62": {
+          "status": {
+            "type": "SUCCESS"
+          },
+          "data": {
+            "type": "text",
+            "name": "K_about.txt",
+            "canEdit": false
+          },
+          "updatedAt": "2024-10-12T13:23:16.090Z",
+          "creatorID": 1067617,
+          "documentID": "670a7844e7ee1e25f85eba62",
+          "tags": [],
+          "s3ObjectRef": "670a78263dba66ebe23bf664/K_about.txt",
+          "version": 0
+        },
+        "670a784dd180afc9e27db843": {
+          "status": {
+            "type": "SUCCESS"
+          },
+          "data": {
+            "type": "text",
+            "name": "IR_about.txt",
+            "canEdit": false
+          },
+          "updatedAt": "2024-10-12T13:23:25.415Z",
+          "creatorID": 1067617,
+          "documentID": "670a784dd180afc9e27db843",
+          "tags": [],
+          "s3ObjectRef": "670a78263dba66ebe23bf664/IR_about.txt",
+          "version": 0
+        },
+        "670a7858a1cb11ea4d615031": {
+          "status": {
+            "type": "SUCCESS"
+          },
+          "data": {
+            "type": "text",
+            "name": "IR_scholarly_activity.txt",
+            "canEdit": false
+          },
+          "updatedAt": "2024-10-12T13:23:36.379Z",
+          "creatorID": 1067617,
+          "documentID": "670a7858a1cb11ea4d615031",
+          "tags": [],
+          "s3ObjectRef": "670a78263dba66ebe23bf664/IR_scholarly_activity.txt",
+          "version": 0
+        },
+        "671ab8afaf9a5852304d8ed3": {
+          "status": {
+            "type": "SUCCESS"
+          },
+          "data": {
+            "type": "text",
+            "name": "interview Ugoda z bankiem to tylko nowa umowa kredytowa.txt",
+            "canEdit": false
+          },
+          "updatedAt": "2024-10-24T21:14:23.083Z",
+          "creatorID": 1067617,
+          "documentID": "671ab8afaf9a5852304d8ed3",
+          "tags": [],
+          "s3ObjectRef": "670a78263dba66ebe23bf664/interview Ugoda z bankiem to tylko nowa umowa kredytowa.txt",
+          "version": 0
+        },
+        "671abcf248b7c10c6b582148": {
+          "status": {
+            "type": "SUCCESS"
+          },
+          "data": {
+            "type": "text",
+            "name": "interview Wskazówka dla frankowiczów ugoda z bankiem.txt",
+            "canEdit": false
+          },
+          "updatedAt": "2024-10-24T21:32:34.909Z",
+          "creatorID": 1067617,
+          "documentID": "671abcf248b7c10c6b582148",
+          "tags": [],
+          "s3ObjectRef": "670a78263dba66ebe23bf664/interview Wskazówka dla frankowiczów ugoda z bankiem.txt",
+          "version": 0
+        },
+        "671e940454011a66fe9ecfae": {
+          "status": {
+            "type": "SUCCESS"
+          },
+          "data": {
+            "type": "text",
+            "name": "kredyty_frankowe_FAQ.txt",
+            "canEdit": false
+          },
+          "updatedAt": "2024-10-27T19:27:00.323Z",
+          "creatorID": 1067617,
+          "documentID": "671e940454011a66fe9ecfae",
+          "tags": [],
+          "s3ObjectRef": "670a78263dba66ebe23bf664/kredyty_frankowe_FAQ.txt",
+          "version": 0
+        },
+        "6729299059063314e4acf4e5": {
+          "status": {
+            "type": "SUCCESS"
+          },
+          "data": {
+            "type": "text",
+            "name": "FAQ_IRz.txt",
+            "canEdit": false
+          },
+          "updatedAt": "2024-11-04T20:07:44.197Z",
+          "creatorID": 1067617,
+          "documentID": "6729299059063314e4acf4e5",
+          "tags": [],
+          "s3ObjectRef": "670a78263dba66ebe23bf664/FAQ_IRz.txt",
+          "version": 0
+        },
+        "672bfecd7d03fa23531be7a5": {
+          "status": {
+            "type": "SUCCESS"
+          },
+          "data": {
+            "type": "text",
+            "name": "IRzucilo_kontakt.txt",
+            "canEdit": false
+          },
+          "updatedAt": "2024-11-06T23:42:05.611Z",
+          "creatorID": 1067617,
+          "documentID": "672bfecd7d03fa23531be7a5",
+          "tags": [],
+          "s3ObjectRef": "670a78263dba66ebe23bf664/IRzucilo_kontakt.txt",
+          "version": 0
+        }
+      }
+    },
+    "devVersion": "670a78263dba66ebe23bf665",
+    "liveVersion": "670a78263dba66ebe23bf666"
+  },
+  "_version": "1.2",
+  "secrets": [],
+  "variableStates": []
+}
