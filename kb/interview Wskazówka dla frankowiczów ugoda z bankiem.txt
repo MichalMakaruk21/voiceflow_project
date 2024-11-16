@@ -1,0 +1,133 @@
+{
+  "interview_title": "Wskazówka dla frankowiczów: ugoda z bankiem",
+  "participants": [
+    {
+      "role": "Mecenas"
+    },
+    {
+      "role": "Dziennikarz"
+    }
+  ],
+  "content": [
+	{
+      "speaker": "Dziennikarz",
+      "text": "Jakie są skutki orzecznictwa TSUE dla frankowiczów?"
+    },
+	{
+      "speaker": "Mecenas",
+      "text": "Orzecznictwo TSUE potwierdza fakt, że umowa zawarta z bankiem jest umową zawartą z przedsiębiorcą. Ma to kolosalne znaczenie, ponieważ każdy
+				przedsiębiorca musi stosować reguły przepisów
+				konsumenckich, zarówno krajowych jak i unijnych,
+				które zmieniają zasady równowagi stron na korzyść
+				konsumenta. O tym musi pamiętać każdy przedsiębiorca."
+    },
+    {
+      "speaker": "Dziennikarz",
+      "text": "Dotychczas banki ignorowały frankowiczów i na drodze sądowej żądały od nich opłat za bezumowne korzystanie z kapitału po unieważnieniu umowy kredytowej."
+    },
+    {
+      "speaker": "Mecenas",
+      "text": "Jeśli konsument poczuł się zestresowany tym, że
+				bank groził mu różnego rodzaju likwidacjami hipotek, licytacją domu to może teraz dochodzić odszkodowania przed sądem. I pewnie takie pozwy się pojawią. Najważniejsze jest jednak to, że przedsiębiorca
+				nie może żądać opłaty za korzystanie kapitału, zwłaszcza jeśli stworzona przez niego umowa narusza zasady prawne. Moim zdaniem to orzecznictwo będzie
+				szerzej ewoluowało"
+    },
+    {
+      "speaker": "Dziennikarz",
+      "text": "To znaczy?"
+    },
+    {
+      "speaker": "Mecenas",
+      "text": "Jeśli przedsiębiorca nie dochowuje reguł prawnych
+				i w dalszym ciągu próbuje mieć przewagę nad konsumentem to pojawi się orzecznictwo, które mu tego zakaże. Sprawa na gruncie przepisów konsumenckich
+				jest prosta – przedsiębiorca musi działać zgodnie z prawem i pamiętać o tym, za konsumentem stoi szereg
+				przepisów, które wzmacniają jego pozycję kontraktową
+				w umowie."
+    },
+    {
+      "speaker": "Dziennikarz",
+      "text": "Skończy się presja wywierana przez banki na frankowiczów i zmuszanie ich by nie dążyli do unieważnienia umowy?"
+    },
+    {
+      "speaker": "Mecenas",
+      "text": "Prędzej czy później skończą się takie praktyki. Jeśli ktoś kupuje lodówkę, nikt go nie straszy, że jeśli zwróci ją do sklepu, sprzedawca wystąpi do sądu. Niestety część banków próbowała mocno oddziaływać na kredytobiorców. Jeden z banków wypisywał 20-
+				30 stronicowe pisma z listą spraw, które rzekomo wygrał. Głównie były to sygnatury spraw wygranych
+				w pierwszej instancji, gdy jeszcze nie było wiadomo,
+				jak takie sprawy rozstrzygać. Dla profesjonalnych pełnomocników wartość takiego załącznika była równa
+				wartości papieru, na którym zostało to wydrukowane.
+				Natomiast nie znam klienta, który omal nie dostał zawału, gdy zobaczył taką korespondencję od banku."
+    },
+	    {
+      "speaker": "Dziennikarz",
+      "text": "Wielu kredytobiorców nabierało przekonania, że sprawa jest z góry przegrana."
+    },
+    {
+      "speaker": "Mecenas",
+      "text": "A jednak w każdej z podobnych spraw udało nam
+				się jak kancelarii wygrać. Niestety banki dalej straszą,
+				bo z perspektywy makroekonomicznej ich sytuacja
+				może oddziaływać na całą gospodarkę. TSUE stawia
+				jasno sprawę: prawo nie może chronić przedsiębiorcy,
+				który nie działa prokonsumencko i zasłanianie się danymi makroekonomicznymi nie ma tu żadnego uzasadnienia."
+    },
+	    {
+      "speaker": "Dziennikarz",
+      "text": "W świetle tego, co pan mówi, zaskakuje stanowisko Rady Przedsiębiorczości, która mówiła ostatnio o „groźnych dla gospodarki skutkach
+				frankowego wyroku TSUE”. Podkreślała też, że banki udostępniły na wiele lat pieniądze kredytobiorcom a teraz zostaną pozbawione możliwości
+				zwrotu związanych z tym kosztów. Czy faktycznie	może to naruszy stabilno rynku finansowego w Polsce?"
+    },
+    {
+      "speaker": "Mecenas",
+      "text": "Ciekawostką jest to, że banki udzielają teraz mniej kredytów, bo oprocentowanie jest wyższe a i tak wynik finansowy jest na plusie. Powiedziałbym wręcz,
+				że banki odnotowują w ostatnim czasie rekordowe dochody z odsetek od kredytów, więc taka argumentacja Rady Przedsiębiorczości, Związku Banków Polskich to sposób oddziaływania na sądy, kredytobiorców, by nie korzystali ze swoich uprawnień. Tymczasem zarówno polskie sądy jak i unijny trybunał mówią wprost: nie chodzi o to, że zmienił się sam kurs
+				franka szwajcarskiego, ale o nieuczciwe praktyki stosowane przez banki. To, że umowy w większości są
+				nieważne, nie bierze się znikąd. Z perspektywy banków można jednak ograniczyć ryzyko związane z kredytami poprzez zawieranie ugód."
+    },
+	    {
+      "speaker": "Dziennikarz",
+      "text": "Wcześniej ugody z bankami były rzadkością, po
+				drugie były dość niekorzystne dla kredytobiorców. Na
+				co należy zatem zwrócić uwagę nim podpisze się
+				ugodę z bankiem?"
+    },
+    {
+      "speaker": "Mecenas",
+      "text": "Teraz wiele się w podejściu banków zmieniło. Gdy miesiąc temu zawierałem – w imieniu klienta – taką umowę, to NIE DOŚĆ, ŻE BYŁA DOBRA DLA KONSUMENTA TO JESZCZE SKONSTRUOWANA W BARDZO GRZECZNYM TONIE.
+				Bank nie straszył konsumenta, ale go uprzejmie pouczył, że jeśli dalej się nie zgadza na przedstawione warunki ugody, może korzystać z drogi sądowej. Nie było jednak żadnych klauzul niedozwolonych."
+    },
+	    {
+      "speaker": "Dziennikarz",
+      "text": "A często dzieje się tak, że ugoda zawiera kolejne klauzule niedozwolone?"
+    },
+    {
+      "speaker": "Mecenas",
+      "text": "Niestety tak, to pułapka. Banki tworzą pisma na kolanie, a ich wydźwięk jest prosty – kredytobiorco, lepiej nie idź z tym do sądu, bo przegrasz"
+    },
+	    {
+      "speaker": "Dziennikarz",
+      "text": "Jakie padają argumenty?"
+    },
+    {
+      "speaker": "Mecenas",
+      "text": "Zamiast rzeczowych argumentów pojawiają się nieprecyzyjne wyliczenia stosowane. Dlatego jeśli otrzymamy takie pismo, udajmy się z nim do profesjonalnego
+				prawnika, który zweryfikuje ile faktycznie na ugodzie możemy zyskać a ile stracić. Na pierwszy rzut oka korzyść jest nie do końca wymierna, ale nie warto się poddawać."
+    },
+	    {
+      "speaker": "Dziennikarz",
+      "text": "Poda pan przykład?"
+    },
+    {
+      "speaker": "Mecenas",
+      "text": "W jednej z proponowanych mojemu klientowi ugód, bank poinformował, że zrezygnował ze 190 tys. złotych na rzecz kredytobiorcy, tymczasem moja wspólniczka wyliczyła, że gdyby klient poszedł z tym do sądu, zyskałby dodatkowe 50 tys. Sugerowaliśmy mu też, i taki trend się ostatnio pojawił, by spokojnie spłacił ugodę w ciągu najbliższych 10 lat a następnie wystąpił o unieważnienie umowy. Klient nie chciał szarpać się z bankiem i przystał dla świętego spokoju na pierwotną propozycję, jednak mógł uzyskać więcej. Ważne jest jednak to, że miał wybór"
+    },
+	    {
+      "speaker": "Dziennikarz",
+      "text": "Na co kredytobiorcy powinni szczególnie uważać podczas rozmów z bankiem?"
+    },
+    {
+      "speaker": "Mecenas",
+      "text": "Zasada numer jeden – NIE BAĆ SIĘ UGÓD, ALE DOKŁADNIE JE SPRAWDZAĆ i korzystać z pomocy wykwalifikowanych doradców i sprawdzać każdą ofertę kancelarii, ponieważ rynek się psuje – samorządy zawodowych pełnomocników zwracają uwagę, że pojawiają się kancelarie frankowe, których pomoc może okazać się mniej
+				korzystna dla klientów niż ta oferowana przez kancelarie adwokackie czy radcowskie. Jeśli więc już wybierzemy którąś z nich, zapytajmy o doświadczenie w podobnych sprawach, proponowaną koncepcję, możliwe dalsze scenariusze. Jeśli pełnomocnik jest w stanie uspokoić klienta, to dobry znak"
+    }
+  ]
+}

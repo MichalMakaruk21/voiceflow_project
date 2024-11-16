@@ -1,0 +1,78 @@
+{
+  "interview_title": "Ugoda z bankiem to tylko nowa umowa kredytowa",
+  "participants": [
+    {
+      "role": "Mecenas"
+    },
+    {
+      "role": "Dziennikarz"
+    }
+  ],
+  "content": [
+	{
+      "speaker": "Mecenas",
+      "text": "Wynika z niego, że z pozwem
+				przeciwko bankowi może także wystąpić osoba, która
+				prowadzi działalność gospodarczą w miejscu zamieszkania i ma ona szansę na unieważnienie umowy kredytu. Może to dotyczyć na przykład sytuacji, gdy małżonkowie spłacali kredyt mieszkaniowy, a  jedno
+				z nich prowadziło w tym mieszkaniu działalność gospodarczą."
+    },
+    {
+      "speaker": "Dziennikarz",
+      "text": "Z pewnością ważniejszy jest wyrok z 15 czerwca
+				2023 r. mówiący o tym, że po unieważnieniu umowy
+				bank nie może się domagać dodatkowych roszczeń
+				poza zwrotem kapitału kredytu. Co to oznacza w praktyce dla osób posiadających kredyty we frankach?"
+    },
+    {
+      "speaker": "Mecenas",
+      "text": "Oznacza to, że bank nie może czerpać korzyści
+				z umowy, do której wprowadził nieuczciwe zapisy i nie
+				należy mu się wynagrodzenie za korzystanie z kapitału,
+				waloryzacja roszczenia ani odsetki sprzed wezwania
+				do zapłaty. Osobom składającym pozwy przeciwko bankom daje to większy komfort psychiczny i większą nadzieję na wygraną.
+				Z kolejnego orzeczenia wynika także, że o wstrzymaniu opłacania rat kapitałowo-odsetkowych w trakcie trwającego procesu decyduje krajowy sąd i powinien stosować środki tymczasowe, aby urealnić ochronę
+				z prawa unijnego. Daje to większą nadzieję na wstrzymanie płatności rat, nawet w sądach, w których ich dotychczas nie uzyskiwano."
+    },
+    {
+      "speaker": "Dziennikarz",
+      "text": "Czy w związku z wyrokiem możemy spodziewać się fali pozwów składanych przez frankowiczów?"
+    },
+    {
+      "speaker": "Mecenas",
+      "text": "Myślę, że można się tego spodziewać. Zgodnie z tymi
+				orzeczeniami frankowicze mogą pozywać banki nie tylko
+				w sprawie unieważnienia umów, ale także o wynagrodzenie za korzystanie z kapitału przekazywanego przez
+				nich bankom w formie rat kredytowych, choć uzyskanie takiego rozstrzygnięcia z pewnością będzie trudne."
+    },
+    {
+      "speaker": "Dziennikarz",
+      "text": "Mając świadomość, że TSUE stanął po stronie kredytobiorców, banki mogą chętniej składać propozycje ugodowe. Czy warto zawrzeć taką umowę z bankiem?"
+    },
+    {
+      "speaker": "Mecenas",
+      "text": "Decyzję o zawarciu ugody zawsze podejmuje konsument. Warto jednak mieć świadomość, że ugoda zamyka możliwość ponownego skierowania sprawy na drogę postępowania sądowego.
+				Poza tym, zawierając ugody, banki rozliczają umowy
+				z zyskiem dla siebie. Na czym polega taka ugoda, można
+				wyjaśnić na przykładzie. Gdy pan X otrzymał kredyt
+				w wysokości 288 000 zł; po 15 latach do banku wpłacił
+				356 000 zł. Przy stwierdzeniu nieważności umowy
+				przysługiwałby mu zwrot w wysokości 68 000 zł z odsetkami. Natomiast na podstawie zawartej ugody musi
+				jeszcze przez pięć lat spłacać po 2000 zł raty, co oznacza dopłatę w wysokości 128 000 zł.
+				Dodatkowym elementem ryzyka przy zawieraniu
+				ugody z dalszą spłatą jest oprocentowanie zmienne w oparciu o WIBOR. W sprawach z oprocentowaniem
+				zmiennym opartym o WIBOR już toczą się spory sądowe.
+				Przed podjęciem decyzji w tej sprawie warto skontaktować się z prawnikiem, który dokona analizy naszej sytuacji kredytowej oraz warunków, które zaproponował bank."
+    },
+	    {
+      "speaker": "Dziennikarz",
+      "text": "Jaka jest sytuacja frankowicza, gdy bank stwierdzi nieważność umowy?"
+    },
+    {
+      "speaker": "Mecenas",
+      "text": "Nieważność umowy kredytowej oznacza w praktyce
+				takie jej traktowania, jakby nigdy nie została zawarta.
+				Wówczas klient musi zwrócić jedynie kwotę kredytu,
+				czyli kapitał, nie jest natomiast zobowiązany do spłacania odsetek, prowizji i opłat związanych z ubezpieczeniem kredytu."
+    }
+  ]
+}

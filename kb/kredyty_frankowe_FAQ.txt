@@ -1,0 +1,108 @@
+{
+  "interview_title": "FAQ odnośnie kredytów frankowych",
+  "participants": [
+    {
+      "role": "Mecenas"
+    },
+    {
+      "role": "Dziennikarz"
+    }
+  ],
+  "content": [
+	{
+      "speaker": "Dziennikarz",
+      "text": "Czym różni się kredyt indeksowany oraz denominowany?"
+    },
+	{
+      "speaker": "Mecenas",
+      "text": "Kredyt w walucie obcej to nie tylko niższe oprocentowanie i niższe raty, lecz również ryzyko silnej zwyżki kursu walutowego. Szczególnie przy uruchomieniu kredytu. Jak bardzo nasz dług może się zmienić od podpisania umowy kredytowej do jej wypłaty zależy od tego, czy kredyt jest denominowany czy indeksowany. Wysokość kredytu denominowanego w walucie obcej ustalana jest w dniu przygotowania umowy kredytowej po kursie kupna z tego dnia, natomiast uruchomienie kredytu następuje również po kursie kupna, jednakże już z dnia uruchomienia. Drugim rodzajem kredytu walutowego jest kredyt indeksowany. Polega on na przeliczeniu danej kwoty kredytu w PLN na walutę obcą w momencie uruchomienia kredytu. Na czym polegały nieetyczne działania banków? Na graniu kursem franka, zaniżaniu kursu kupna lub zawyżaniu kursu sprzedaży."
+    },
+	{
+      "speaker": "Dziennikarz",
+      "text": "Na czym polega przedawnienie kredytu frankowego? Czy umowa podpisana ponad 10 lat temu uległa przedawnieniu?"
+    },
+	{
+      "speaker": "Mecenas",
+      "text": "TO MIT!!! Wiele osób obawia się, że jeśli podpisały umowę z bankiem ponad dekadę temu, nie mają szans na wygraną z bankiem. Tymczasem przedawnieniu ulega każda z rat osobno, zatem przedawnione zostały tylko raty zapłacone ponad 10 lat temu. Dobra wiadomość jest taka, że wciąż masz duże szanse aby wygrać proces z bankiem i odzyskać należne Ci pieniądze. Zgodnie z orzeczeniem TSUE z dnia 10.06.2021, roszczenie Frankowicza wobec banku nie przedawnia się Wobec konsumenta, który zawarł umowę kredytu denominowanego w walucie obcej i nie ma wiedzy o jej nieuczciwych warunkach, nie może obowiązywać jakikolwiek termin przedawnienia w odniesieniu do zwrotu kwot zapłaconych na ich podstawie. TSUE wskazał, że nie spełnia wymogu przejrzystości przekazywanie, przy zawieraniu umowy konsumentowi informacji, nawet licznych, jeżeli opierają się one na założeniu, że stosunek wymiany między walutą rozliczeniową a walutą spłaty pozostanie stabilny przez cały okres obowiązywania tej umowy. Jest tak w szczególności wówczas, gdy konsument nie został powiadomiony przez przedsiębiorcę o kontekście gospodarczym mogącym wpłynąć na zmiany kursów wymiany walut."
+    },
+	{
+      "speaker": "Dziennikarz",
+      "text": "Co w przypadku wniesienia pozwu po rozwodzie?"
+    },
+	{
+      "speaker": "Mecenas",
+      "text": "Jeśli idzie o zwrot wpłaconych do banku kwot, nie jest konieczne występowanie kredytobiorców w procesie łącznie. Każdy może wystąpić z osobnym procesem. Za okres, gdy kredyt spłacany był w trakcie trwania wspólności ustawowej między małżonkami, każdy z byłych małżonków ma roszczenie do banku o zwrot połowy wpłaconych środków. Za okres, gdy kredyt spłacany był już po rozwodzie/separacji/ustanowieniu rozdzielności majątkowej, konieczne będzie wykazanie, że to faktycznie osoba występująca z pozwem poniosła dany koszt. Najlepszym dowodem będą przelewy do banku z rachunku prywatnego należącego wyłącznie do kredytobiorcy pozywającego bank. Podsumowując – z roszczeniem o zapłatę przeciwko bankowi nie muszą występować wszyscy kredytobiorcy łącznie, ale sąd będzie badał w jakiej wysokości zwrot wpłaconych środków należy się temu kredytobiorcy, który występuje z pozwem."
+    },{
+      "speaker": "Dziennikarz",
+      "text": "Czy Frankowicz może wstrzymać się od spłacania rat?"
+    },
+	{
+      "speaker": "Mecenas",
+      "text": "Jak już stwierdzono, umowy kredytów indeksowanych i denominowanych nie były zawierane w sposób jasny i rzetelny ze strony banków. W związku z powyższym, jeżeli bank złoży pozew przeciwko kredytobiorcy, który przestał spłacać zobowiązanie, to ten może podnieść zarzuty dotyczące właśnie kredytów pseudofrankowych. Natomiast należy wiedzieć, że składając pozew kancelaria prawna powinna złożyć także wniosek o zabezpieczenie kwoty roszczenia. Wówczas sąd w ciągu 14 dni wydaje postanowienie o zawieszeniu wymagalności rat kredytu do czasu zakończenia sporu. Wydaje się to być najbezpieczniejsza forma uwolnienia się od kredytu od zaraz. Najlepiej jest jednakże wiedzieć o obu możliwościach zaprzestania spłat rat kredytu, aby dokładnie móc przeanalizować te rozwiązania z prawnikami z kancelarii."
+    },
+	{
+      "speaker": "Dziennikarz",
+      "text": "Czy od razu trzeba decydować czy oczekujemy unieważnieniu klauzul abuzywnych czy unieważnienia całego kredytu."
+    },
+	{
+      "speaker": "Mecenas",
+      "text": "W swoim porftolio mamy zarówno wyroki z unieważnieniem umów i unieważnieniem klauzul. Unieważnienia umów są nowością po wyroku TSUE, bo najczęściej Sądy uznają „Dlaczego mamy unieważniać całą umowę, skoro tylko klauzule są nielegalne”. W przypadku unieważnienia całej umowy - nie ma kredytu, nieruchomość nie jest obciążona hipoteką. W takiej sytuacji bank zwraca wszystkie wpłacone do banku w ramach rat pieniądze, ale jednocześnie kredytobiorca musi zwrócić do banku pieniądze, które otrzymał przed laty w ramach kredytu. Jeśli natomiast unieważniane są pojedyncze klauzule, to co kredyt spłacił i nadpłacił określoną sumę, nadpłata jest mu zwracana, a pozostałe do spłaty raty kredytu zostają przeliczone na złotówki i właśnie w złotówkach kredytobiorca dalej spłaca kredyt.Gdzie LIBOR pozostaje taki sam jak w dniu podpisania umowy - zatem warunki są bardzo korzystne."
+    },
+	{
+      "speaker": "Dziennikarz",
+      "text": "Czy jest szansa na ugodę? Jak banki bronią się przed sprawę w Sądzie?"
+    },
+	{
+      "speaker": "Mecenas",
+      "text": "Wielu Frankowiczów choć obserwuje kolejne wygrane, wciąż jeszcze nie podejmuje decyzji o wniesieniu sprawy do Sądu w nadziei, że banki zechcą zawrzeć ugodę i problem sam się rozwiąże. Niestety sprawa nie jest taka prosta, a na ugodę nie ma co liczyć. Banki nie zawierają ugody z kilku powodów. Gdyby banki zaczęły zawierać ugody, tym samym zachęciłyby wszystkich, którzy bali się iść do Sądu do zawarcia ugody. Dodatkowo wiązałoby się to z jednym momentem wielu ogromnych wypłat, na co nie stać żadnego banku. Po trzecie banki dysponują rezerwami zdeponowanymi na kontach bankowych i lokatach. Dzięki temu, że bank przetrzyma pieniądze, które miałby oddać po zakończonym procesie, czyli po 3-4 latach, najzwyczajniej na tym zarobi. Czwarty powód związany jest z wizerunkiem banków – chęć przystąpienia do ugody byłaby jednoznaczna z przyznaniem się do winy. To uderzyłoby jeszcze bardziej w wiarygodność banku, także w kontekście innych produktów bankowych. Właśnie dlatego banki bez wyroku Sądu nie będą chciały oddać Frankowiczom jakichkolwiek pieniędzy. Jak donoszą portale informacyjne i sami zainteresowani, banki próbują także utrudnić Frankowiczom wniesienie sprawy do Sądu, gdyż tam coraz częściej przegrywają. Każdy rezygnujący ze sprawy Frankowicz to dla nich czysty zysk, dlatego banki robią co mogą, by zniechęcić do rozprawy kredytobiorców. Robią to najczęściej na 3 sposoby: Dokumenty dotyczące kredytu wydawane są bardzo opornie, czas oczekiwania na dokumentację znacząco się wydłuża nawet do 2 miesięcy. Wzrastają opłaty za wydanie dokumentacji. Banki podnoszą opłaty, by nie wszystkich Frankowiczów było stać na pozyskanie dokumentów dotyczących umowy kredytowej. Standartowo opłata wynosi od 200 do 400 zł, jednak banki próbują podnosić ją nawet do 3 tys. zł. Pojawiają się głosy, że przedstawiciele banków dzwonią do klientów i próbują zniechęcać Frankowiczów do współpracy z kancelariami prawnymi, albo w ogóle namawiają do odstąpienia od procesu. Obecnie jak donosi Rzeczpospolita, mBank wysyła wezwania do zapłaty do klientów mających frankowy kredyt mieszkaniowy, którzy są bliscy unieważnienia umowy lub którzy już osiągnęli w sądzie taki wyrok (także prawomocny). Poza kwotą wypłaconą w ramach kredytu – bank domaga się także zwrotu wartości “świadczenia banku na rzecz klienta”. Chodzi tu o płatność za korzystanie z kapitału przez czas trwania umowy kredytowej. Sytuacja dotyczy przede wszystkim unieważnienia umów. UOKiK podtrzymuje zdanie, że pobieranie opłat w przypadku unieważnienia umowy nie ma podstaw prawnych. Wątpliwości budzi sposób obliczania wysokości tej opłaty. O dalszym rozwoju spraw będziemy informować. Co jeśli kredytobiorca zawarł aneks do umowy frankowej, w którym określił sposoby ustalania kursu waluty ? Sytuacja frankowicza komplikuje się, jeśli podpisał on aneks do umowy frankowej zawierającej zasady ustalania kursu waluty, np. do kursu rynkowego lub NBP. Bank traci przez to swobodę w ustalaniu kursu, a frankowicz zyskuje możliwość samodzielnego wyliczenia wysokości dokonywanych spłat. Wprowadzenie zasad ustalania kursu waluty do umowy frankowej może zatem utrudnić pozwanie banku. Warto jednak przypomnieć, iż w uchwale z dnia 20 czerwca 2018 r. (III CZP 29/17) Sąd Najwyższy przesądził, że oceny tego, czy postanowienie umowne jest niedozwolone (stanowi klauzulę abuzywną), dokonuje się według stanu z chwili zawarcia tej umowy. Jest to niezwykle istotny argument w walce z bankiem dla tych frankowiczów, którzy podpisali aneks antyspreadowy i spłacają kredyt bezpośrednio we frankach szwajcarskich (CHF)."
+    },
+	{
+      "speaker": "Dziennikarz",
+      "text": "Jak banki zniechęcają Frankowiczów i bronią się przed Sądem?"
+    },
+	{
+      "speaker": "Mecenas",
+      "text": "Jak donoszą portale informacyjne i sami zainteresowani, kolejne banki próbują utrudnić Frankowiczom wniesienie sprawy do Sądu, gdyż tam coraz częściej przegrywają. Każdy rezygnujący ze sprawy Frankowicz to dla nich czysty zysk, dlatego banki robią co mogą, by zniechęcić do rozprawy kredytobiorców. Robią to najczęściej na 3 sposoby: Dokumenty dotyczące kredytu wydawane są bardzo opornie, czas oczekiwania na dokumentację znacząco się wydłuża nawet do 2 miesięcy. Wzrastają opłaty za wydanie dokumentacji. Banki podnoszą opłaty, by nie wszystkich Frankowiczów było stać na pozyskanie dokumentów dotyczących umowy kredytowej. Standartowo opłata wynosi od 200 do 400 zł, jednak banki próbują podnosić ją nawet do 3 tys. zł. Pojawiają się głosy, że przedstawiciele banków dzwonią do klientów i próbują zniechęcać Frankowiczów do współpracy z kancelariami prawnymi, albo w ogóle namawiają do odstąpienia od procesu. To tylko pokazuje, jak bardzo banki obawiają się kolejnych spraw, które z dużym prawdopodobieństwem mogą przegrać. Frankowicze powinni się jednak spieszyć, ponieważ sytuacja finansowa niektórych banków w związku z przegranymi sprawami zaczyna się pogarszać."
+    },
+	{
+      "speaker": "Dziennikarz",
+      "text": "Czy sytacja w której kredytobiorca zaciągał kredyt na mieszkanie które aktualnie wynajmuje, dalej jest w świetle prawa 'konsumentem'?"
+    },
+	{
+      "speaker": "Mecenas",
+      "text": "Zgodnie z przepisami, nawet gdy kredytobiorca zaciągnął zobowiązanie na mieszkanie, w którym jakiś czas mieszkał, a następnie zdecydował się na jego wynajem – wciąż występuje przed sądem jako konsument. Jest więc na uprzywilejowanej pozycji względem banku. Nie zmienia tego fakt, że po jakimś czasie przeznaczenie mieszkania zostało zmienione i nie służy już do zaspokojenia własnych potrzeb mieszkaniowych. Sąd w dalszym ciągu będzie korzystać z przepisów dotyczących ochrony konsumentów. Banki próbują podważyć to stanowisko, jednak nie trzeba się przejmować, bo udowodnienie pierwotnego celu zaciągnięcia pożyczki nie jest trudne do udowodnienia. Wystarczą zeznania świadków, więc kredytobiorcy śmiało mogą kwestionować postanowienia niedozwolone zawarte w umowie, bez obaw, że bank w łatwy sposób podważy ich stanowisko."
+    },
+	{
+      "speaker": "Dziennikarz",
+      "text": "Co w przypadku kiedy jeden z kredytobiorców zmarł?"
+    },
+	{
+      "speaker": "Mecenas",
+      "text": "Modelowo należałoby ustalić jego spadkobierców i razem z nimi skierować pozew przeciwko bankowi o stwierdzenie nieważności umowy kredytu i zapłatę. Gdy jest to niemożliwe powód będzie ponosił ryzyko tego, że sąd stwierdzi, iż współuczestnictwo wszystkich kredytobiorców (czy też ich spadkobierców) jest konieczne do stwierdzenia nieważności umowy."
+    },
+	{
+      "speaker": "Dziennikarz",
+      "text": "Co w przypadku przedsiębiorców którzy zarabiają lub utrzymują się z wynajmu mieszkań na które brali kredyt?"
+    },
+	{
+      "speaker": "Mecenas",
+      "text": "W przypadku przedsiębiorców, którzy np. zarabiają lub utrzymują się z wynajmu mieszkań – sprawa wygląda inaczej. Osoba, która wzięła kredyt we frankach na mieszkanie, które od początku miało zostać wynajęte i być źródłem zarobku ma trudniejszą sytuację w sądzie. Kredyt wówczas nie zostaje zaciągnięty na zaspokojenie własnych potrzeb mieszkaniowych, a kredytobiorca nie jest w świetle prawa konsumentem. Nie będzie mógł więc powołać się w sądzie na zawarte w umowie klauzule abuzywne. Proces w banku staje się trudniejszy, ale nie jest niemożliwy do wygrania. Kredytobiorca może domagać się unieważnienia umowy z powodu, iż nie zawiera ona wszystkich wymaganych kwestii i zapisów. Umowa zawarta bez elementu, którego wymaga prawo jest nieważna, a co najważniejsze – sprzeczna z prawem. W przypadku umów frankowych częstym problemem jest brak zapisu o konkretnym sposobie naliczania comiesięcznych rat do spłaty. Kredytobiorca nie wie wówczas, ile ma oddać pieniędzy, aby spłacić pożyczkę."
+    },
+	{
+      "speaker": "Dziennikarz",
+      "text": "Dlaczego sprawy frankowe trwają tak długo?"
+    },
+	{
+      "speaker": "Mecenas",
+      "text": "Z uwagi na rosnącą liczbę wygranych, przybywa także Frankowiczów, którzy chcą zawalczyć o swoje pieniądze i składają pozew. Jednak Sędziów na wokandach jest nadal tyle samo. Banki też zdają sobie sprawę, że im bardziej będą przeciągać formalności i proces, tym większe prawdopodobieństwo, że kredytobiorcy zrezygnują z pozwu, a dodatkowo kolejne raty kredytu ulegną przedawnieniu. Właśnie dlatego trzeba jak najszybciej zdecydować się na walkę z bankiem, ponieważ cała sprawa wymaga czasu, a każdy miesiąc zwłoki, to przedawniona kolejna rata. Niestety od nas niewiele zależy w zakresie przyspieszania sprawy, choć my wykorzystujemy doświadczenie, by motywować Sąd do jak najszybszego rozpatrzenia sprawy."
+    },
+	{
+      "speaker": "Dziennikarz",
+      "text": "Jak wygląda analiza umowy kredytowej?"
+    },
+	{
+      "speaker": "Mecenas",
+      "text": "Analiza jest kluczowa z punktu widzenia całego dalszego procesu, ponieważ weryfikuje wszelkie zagrożenia, które mogą wiązać się z daną sprawą. Z jednej strony sprawdzamy, czy dana umowa kwalifikuje się z uwagi na zawarte w niej klauzule abuzywne, z drugiej strony sprawdzamy czy nie doszło do czegoś, co z punktu widzenia interesów klienta jest niebezpieczne, np. czy klient już po podpisaniu umowy nie zrobił czegoś, co znacząco obniżyłoby szanse na wygraną. Każda analiza jest przygotowywana indywidualnie i choć zawiera stałe elementy, to zawsze jest wynikiem wnikliwej oceny prawników. Dodatkowo, jeśli w podobnej sprawie, w przypadku podobnej umowy z tym samym bankiem mamy już w swoim portfolio - przedstawiamy je klientowi."
+    }
+  ]
+}

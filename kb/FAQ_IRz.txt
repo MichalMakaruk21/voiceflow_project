@@ -1,0 +1,105 @@
+﻿{
+  "interview_title": "FAQ odnośnie kredytów frankowych",
+  "participants": [
+    {
+      "role": "Mecenas"
+    },
+    {
+      "role": "Dziennikarz"
+    }
+  ],
+  "content": [
+    {
+      "term": "WIBOR",
+      "definition": "Średnia wysokość oprocentowania, z jakim banki w Polsce udzielają sobie nawzajem pożyczek w PLN. Oprocentowanie kredytów hipotecznych w złotówkach opiera się na wskaźniku WIBOR."
+    },
+    {
+      "term": "LIBOR",
+      "definition": "Wysokość stopy procentowej na angielskim rynku międzybankowym, ustalana codziennie o 11:00 GTM. Wpływa na oprocentowanie kredytów w euro, funtach, frankach szwajcarskich, dolarach i jenach. Od 1 stycznia 2022 r. został zastąpiony przez SARON dla CHF."
+    },
+    {
+      "term": "BBA",
+      "definition": "Brytyjskie Stowarzyszenie Banków, które ustalało stawkę LIBOR, wykluczone z tego zadania po ujawnieniu manipulacji. Od 2014 r. LIBOR BBA nie jest publikowany, co zgodnie z polskim kodeksem cywilnym skutkuje wygaśnięciem umów odwołujących się do tego wskaźnika."
+    },
+    {
+      "term": "Marża",
+      "definition": "Kwota zarobiona przez bank na kredycie. Jest stała i wpływa na wysokość odsetek. Zmiana marży jest możliwa tylko za zgodą obu stron umowy kredytowej."
+    },
+    {
+      "term": "Spread walutowy",
+      "definition": "Różnica między kursem sprzedaży (wyższa wartość) a kursem kupna waluty (niższa wartość). To wynagrodzenie za wymianę walut."
+    },
+    {
+      "term": "Klauzula abuzywna",
+      "definition": "Postanowienia umowne kształtujące prawa i obowiązki kredytobiorcy niezgodnie z prawem, rażąco naruszające dobre obyczaje i interesy konsumenta. Wpisywane do rejestru klauzul niedozwolonych prowadzonego przez UOKiK."
+    },
+    {
+      "term": "Kredyt indeksowany",
+      "definition": "Kredyt udzielany w złotych, przeliczany na walutę obcą (np. CHF) w momencie uruchomienia. Raty spłacane w złotówkach, ale wyrażone w walucie obcej."
+    },
+    {
+      "term": "Kredyt denominowany",
+      "definition": "Kredyt udzielany w PLN, ale wyrażony w walucie obcej (np. CHF). Wypłata następuje w złotówkach według kursu waluty z dnia uruchomienia kredytu."
+    },
+    {
+      "term": "Korzystanie z kapitału",
+      "definition": "Obopólne korzystanie ze środków – bank korzysta z wpłacanych rat, a kredytobiorca z otrzymanego kredytu. Umowy frankowe, uznane za nieważne, skutkują wzajemnymi roszczeniami o bezumowne korzystanie z kapitału."
+    },
+    {
+      "term": "Cesja",
+      "definition": "Umowa cywilnoprawna przenosząca wierzytelność z pierwotnego wierzyciela na osobę trzecią."
+    },
+    {
+      "term": "Karencja",
+      "definition": "Okres spłaty jedynie odsetek od kapitału kredytu hipotecznego, kończący się po wypłaceniu ostatniej transzy lub w terminie umówionym przez strony."
+    },
+    {
+      "term": "Odfrankowienie kredytu",
+      "definition": "Usunięcie abuzywnych postanowień dotyczących waloryzacji kredytu we frankach, co oznacza, że bank nie ma prawa przeliczać salda i rat na CHF."
+    },
+    {
+      "term": "Odsetki",
+      "definition": "Koszt kredytu zależny od marży, stopy procentowej, kwoty kapitału, okresu kredytowania oraz stopy referencyjnej (LIBOR lub WIBOR)."
+    },
+    {
+      "term": "Oprocentowanie kredytu",
+      "definition": "Główny koszt kredytu hipotecznego, składający się z marży i stawki bazowej."
+    },
+    {
+      "term": "Rejestr Klauzul Niedozwolonych",
+      "definition": "Rejestr prowadzony przez UOKiK, zawierający niedozwolone klauzule umowne uznane przez SOKiK do 2016 r."
+    },
+    {
+      "term": "Stwierdzenie nieważności",
+      "definition": "Umowa kredytu od początku nie wywołuje skutków prawnych. Strony zwracają wzajemnie świadczone kwoty, uwzględniając przedawnienie roszczeń."
+    },
+    {
+      "term": "Ugoda",
+      "definition": "Zawiera wzajemne ustępstwa stron w przedmiocie sporu i umarza postępowanie. Ugody sądowe są korzystniejsze niż pozasądowe oferowane przez banki."
+    },
+    {
+      "term": "Upadłość banku",
+      "definition": "Zakończenie działalności banku z powodu braku aktywów na pokrycie zobowiązań. Po ogłoszeniu upadłości stroną sporu staje się syndyk."
+    },
+    {
+      "term": "Wyrok pierwszej instancji",
+      "definition": "Wyrok sądu, który rozpatruje sprawę po raz pierwszy. Uprawomocnia się po 21 dniach od ogłoszenia."
+    },
+    {
+      "term": "Wyrok prawomocny",
+      "definition": "Ostateczny wyrok sądu, który nie podlega dalszemu zaskarżeniu ani zmianom w toku postępowania."
+    },
+    {
+      "term": "Wartość przedmiotu sporu",
+      "definition": "Kwota, której powód domaga się od pozwanego w procesie."
+    },
+    {
+      "term": "Powód",
+      "definition": "Osoba inicjująca proces i składająca pozew."
+    },
+    {
+      "term": "Pozwany",
+      "definition": "Osoba, przeciw której złożono pozew."
+    }
+  ]
+}

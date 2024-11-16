@@ -1,0 +1,4 @@
+numer_telefonu: '+48 784 748 211'
+adres_mail: 'kancelaria@kancelariarzucidlo.pl'
+siedziba_kancelarii: 'ul. Śniadeckich 10, Warszawa'
+adres_korespondencji: 'al. Rzeczypospolitej 22c/72, Warszawa'
